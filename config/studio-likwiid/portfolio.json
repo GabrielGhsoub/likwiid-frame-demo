@@ -1,0 +1,421 @@
+{
+  "slug": "studio-likwiid",
+  "archetype": "art",
+  "brand": {
+    "name": "Studio Likwiid",
+    "primary": "#141417",
+    "accent": "#1e40af",
+    "neutral": "#f4f4f1",
+    "fontPairing": "gallery"
+  },
+  "languages": ["en", "fr"],
+  "photographer": {
+    "name": "Studio Likwiid",
+    "portrait": "atelier.jpg",
+    "location": "Lisbon",
+    "about": {
+      "en": "Studio Likwiid is a commercial and fine art photography practice based in Lisbon. The studio works where geometry, light and silence meet, from architecture commissions to gallery series. Prints and licensing are handled directly from the studio.",
+      "fr": "Studio Likwiid est un atelier de photographie commerciale et d'art établi à Lisbonne. Le studio travaille là où la géométrie, la lumière et le silence se rencontrent, des commandes d'architecture aux séries de galerie. Les tirages et les licences sont gérés directement par l'atelier."
+    }
+  },
+  "hero": {
+    "image": "hero.jpg",
+    "heading": {
+      "en": "Studio Likwiid",
+      "fr": "Studio Likwiid"
+    },
+    "sub": {
+      "en": "Photographs of structure, matter and light. Lisbon.",
+      "fr": "Photographies de structure, de matière et de lumière. Lisbonne."
+    },
+    "cta": "work"
+  },
+  "galleries": [
+    {
+      "id": "structures",
+      "title": { "en": "Structures", "fr": "Structures" },
+      "description": {
+        "en": "A study of buildings as pure form. Commissioned and personal work, photographed in Portugal and abroad.",
+        "fr": "Une étude du bâtiment comme forme pure. Travaux de commande et personnels, photographiés au Portugal et ailleurs."
+      },
+      "layout": "justified",
+      "surface": "dark",
+      "cover": "triangles.jpg",
+      "images": [
+        {
+          "file": "triangles.jpg",
+          "alt": {
+            "en": "Faceted metal facade of triangular panels in pale blue light",
+            "fr": "Façade métallique à facettes triangulaires dans une lumière bleu pâle"
+          },
+          "featured": true,
+          "sell": true
+        },
+        {
+          "file": "monolith.jpg",
+          "alt": {
+            "en": "Brutalist concrete tower photographed from below against a black sky",
+            "fr": "Tour brutaliste en béton photographiée d'en bas sur un ciel noir"
+          },
+          "featured": true,
+          "sell": true
+        },
+        {
+          "file": "windows.jpg",
+          "alt": {
+            "en": "Grid of square windows on a grey stone facade, one window open",
+            "fr": "Grille de fenêtres carrées sur une façade de pierre grise, une fenêtre ouverte"
+          }
+        },
+        {
+          "file": "weave.jpg",
+          "alt": {
+            "en": "Black and white woven metal facade curving over a dark base",
+            "fr": "Façade métallique tressée en noir et blanc s'incurvant sur une base sombre"
+          },
+          "sell": true
+        },
+        {
+          "file": "atrium.jpg",
+          "alt": {
+            "en": "Circular atrium balconies seen from below against the sky",
+            "fr": "Balcons d'un atrium circulaire vus d'en bas contre le ciel"
+          },
+          "sell": true
+        },
+        {
+          "file": "copper-wave.jpg",
+          "alt": {
+            "en": "Curved copper cladding catching warm afternoon light",
+            "fr": "Bardage de cuivre incurvé sous une chaude lumière d'après midi"
+          }
+        },
+        {
+          "file": "volumes.jpg",
+          "alt": {
+            "en": "Stacked translucent white volumes of a museum against a white sky",
+            "fr": "Volumes blancs translucides empilés d'un musée contre un ciel blanc"
+          }
+        },
+        {
+          "file": "blocks.jpg",
+          "alt": {
+            "en": "Diagonal pattern of white concrete blocks across a residential tower",
+            "fr": "Motif diagonal de blocs de béton blanc sur une tour résidentielle"
+          }
+        },
+        {
+          "file": "spikes.jpg",
+          "alt": {
+            "en": "White angled fins projecting from a raw concrete wall",
+            "fr": "Ailettes blanches inclinées saillant d'un mur de béton brut"
+          }
+        },
+        {
+          "file": "cornice.jpg",
+          "alt": {
+            "en": "Minimal white rooflines layered against an overcast sky",
+            "fr": "Lignes de toit blanches minimales superposées sous un ciel couvert"
+          }
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "title": { "en": "Still", "fr": "Nature morte" },
+      "description": {
+        "en": "Objects and botanicals under studio light. Quiet compositions built one element at a time.",
+        "fr": "Objets et végétaux sous la lumière du studio. Des compositions calmes, construites un élément à la fois."
+      },
+      "layout": "grid",
+      "surface": "light",
+      "cover": "tulip.jpg",
+      "showExif": true,
+      "images": [
+        {
+          "file": "tulip.jpg",
+          "alt": {
+            "en": "Single orange tulip emerging from darkness",
+            "fr": "Tulipe orange unique émergeant de l'obscurité"
+          },
+          "featured": true
+        },
+        {
+          "file": "vase.jpg",
+          "alt": {
+            "en": "White chrysanthemums in a glass vase under striped window light",
+            "fr": "Chrysanthèmes blancs dans un vase en verre sous une lumière de fenêtre striée"
+          }
+        },
+        {
+          "file": "yellow-tulip.jpg",
+          "alt": {
+            "en": "Yellow tulip with red veins on a black background",
+            "fr": "Tulipe jaune veinée de rouge sur fond noir"
+          }
+        },
+        {
+          "file": "lily.jpg",
+          "alt": {
+            "en": "Pink lily with orange stamens against a dark background",
+            "fr": "Lys rose aux étamines orange sur fond sombre"
+          }
+        },
+        {
+          "file": "mamiya.jpg",
+          "alt": {
+            "en": "Mamiya RB67 medium format camera on a white background",
+            "fr": "Appareil moyen format Mamiya RB67 sur fond blanc"
+          }
+        },
+        {
+          "file": "turntable.jpg",
+          "alt": {
+            "en": "Tonearm resting on a spinning record by a window",
+            "fr": "Bras de lecture posé sur un disque en rotation près d'une fenêtre"
+          }
+        },
+        {
+          "file": "coffee.jpg",
+          "alt": {
+            "en": "Monochrome overhead still life of a coffee cup and a pencil",
+            "fr": "Nature morte monochrome vue de dessus, tasse de café et crayon"
+          }
+        },
+        {
+          "file": "bulb.jpg",
+          "alt": {
+            "en": "Frosted light bulb lying on a black background",
+            "fr": "Ampoule dépolie posée sur un fond noir"
+          }
+        },
+        {
+          "file": "wall-lamp.jpg",
+          "alt": {
+            "en": "Industrial lamp and zigzag shadows on a textured wall",
+            "fr": "Lampe industrielle et ombres en zigzag sur un mur texturé"
+          }
+        }
+      ]
+    },
+    {
+      "id": "terrain",
+      "title": { "en": "Terrain", "fr": "Terrain" },
+      "description": {
+        "en": "Minimal landscapes. Fog, dunes and water, reduced to line and tone.",
+        "fr": "Paysages minimaux. Brume, dunes et eau, réduits à la ligne et au ton."
+      },
+      "layout": "fullbleed",
+      "surface": "dark",
+      "cover": "white-sands.jpg",
+      "images": [
+        {
+          "file": "white-sands.jpg",
+          "alt": {
+            "en": "Lone figure walking across white sand under a pastel sky",
+            "fr": "Silhouette solitaire marchant sur le sable blanc sous un ciel pastel"
+          },
+          "featured": true,
+          "sell": true
+        },
+        {
+          "file": "mirror-lake.jpg",
+          "alt": {
+            "en": "Snowy peaks reflected in a still mountain lake with drifting fog",
+            "fr": "Sommets enneigés se reflétant dans un lac de montagne immobile, brume dérivante"
+          },
+          "sell": true
+        },
+        {
+          "file": "white-peak.jpg",
+          "alt": {
+            "en": "Snow covered peak in black and white, half veiled by cloud",
+            "fr": "Sommet enneigé en noir et blanc, à demi voilé par les nuages"
+          },
+          "sell": true
+        },
+        {
+          "file": "huangshan.jpg",
+          "alt": {
+            "en": "Granite peaks and pines rising through dense fog",
+            "fr": "Pics de granit et pins émergeant d'un brouillard dense"
+          }
+        },
+        {
+          "file": "dune-aerial.jpg",
+          "alt": {
+            "en": "Aerial abstraction of ochre dunes and scattered brush",
+            "fr": "Abstraction aérienne de dunes ocre et de broussailles éparses"
+          },
+          "sell": true
+        },
+        {
+          "file": "sossusvlei.jpg",
+          "alt": {
+            "en": "Red dunes of Sossusvlei under a deep blue sky",
+            "fr": "Dunes rouges de Sossusvlei sous un ciel bleu profond"
+          }
+        },
+        {
+          "file": "fog-valley.jpg",
+          "alt": {
+            "en": "Sea of fog filling a valley at dusk, rooftops in silhouette",
+            "fr": "Mer de brouillard emplissant une vallée au crépuscule, toits en silhouette"
+          }
+        },
+        {
+          "file": "fog-forest.jpg",
+          "alt": {
+            "en": "Conifer forest fading into pale fog",
+            "fr": "Forêt de conifères s'estompant dans une brume pâle"
+          }
+        },
+        {
+          "file": "ridge.jpg",
+          "alt": {
+            "en": "Green mountain ridge disappearing into low cloud",
+            "fr": "Crête de montagne verte disparaissant dans les nuages bas"
+          }
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "white-light",
+      "title": { "en": "White Light", "fr": "Lumière blanche" },
+      "date": "2025-03-08",
+      "body": {
+        "en": "White Light is a series about facades that behave like paper. Photographed across four European cities between 2023 and 2025, it looks for the moment when a building stops being an object and becomes a sheet of tone. Each frame keeps only what survives overexposure: edge, rhythm, shadow. The series is printed in editions of seven on matte cotton paper.",
+        "fr": "Lumière blanche est une série sur des façades qui se comportent comme du papier. Photographiée dans quatre villes européennes entre 2023 et 2025, elle cherche le moment où un bâtiment cesse d'être un objet pour devenir une feuille de tons. Chaque image ne garde que ce qui survit à la surexposition: l'arête, le rythme, l'ombre. La série est tirée en éditions de sept sur papier coton mat."
+      },
+      "images": [
+        {
+          "file": "louvers.jpg",
+          "alt": {
+            "en": "Rows of white angled louvers zigzagging across a facade",
+            "fr": "Rangées de persiennes blanches inclinées zigzaguant sur une façade"
+          },
+          "featured": true
+        },
+        {
+          "file": "glass.jpg",
+          "alt": {
+            "en": "Corner of a tower clad in overlapping glass shingles",
+            "fr": "Angle d'une tour habillée d'écailles de verre superposées"
+          }
+        },
+        {
+          "file": "arcs.jpg",
+          "alt": {
+            "en": "Two arched white roof volumes with dark glazing against a blue sky",
+            "fr": "Deux volumes de toit blancs en arc avec vitrage sombre contre un ciel bleu"
+          }
+        },
+        {
+          "file": "facade-weave.jpg",
+          "alt": {
+            "en": "Woven concrete facade in warm evening light",
+            "fr": "Façade de béton tressée dans une chaude lumière du soir"
+          }
+        },
+        {
+          "file": "lines.jpg",
+          "alt": {
+            "en": "White wall panels crossed by thin dark joints",
+            "fr": "Panneaux muraux blancs traversés de fins joints sombres"
+          }
+        }
+      ]
+    }
+  ],
+  "cv": {
+    "sections": [
+      {
+        "title": { "en": "Selected exhibitions", "fr": "Expositions choisies" },
+        "items": [
+          {
+            "en": "Sheet of Tone, solo show, Sala Likwiid, Lisbon, 2026",
+            "fr": "Feuille de tons, exposition personnelle, Sala Likwiid, Lisbonne, 2026"
+          },
+          {
+            "en": "White Light, Galeria Likwiid Norte, Porto, 2025",
+            "fr": "Lumière blanche, Galeria Likwiid Norte, Porto, 2025"
+          },
+          {
+            "en": "Terrain, group show, Espaço Maré Alta, Lisbon, 2023",
+            "fr": "Terrain, exposition collective, Espaço Maré Alta, Lisbonne, 2023"
+          },
+          {
+            "en": "Quiet Structures, Likwiid Annex, Madrid, 2022",
+            "fr": "Structures calmes, Likwiid Annex, Madrid, 2022"
+          }
+        ]
+      },
+      {
+        "title": { "en": "Publications", "fr": "Publications" },
+        "items": [
+          {
+            "en": "Paper Cities, self published artist book, edition of 200, 2025",
+            "fr": "Paper Cities, livre d'artiste auto édité, édition de 200, 2025"
+          },
+          {
+            "en": "Margem Review, portfolio feature, issue 14, 2024",
+            "fr": "Margem Review, portfolio, numéro 14, 2024"
+          },
+          {
+            "en": "The Flat File Annual, selected works, 2023",
+            "fr": "The Flat File Annual, travaux choisis, 2023"
+          }
+        ]
+      }
+    ]
+  },
+  "clients": [
+    "Norte Editions",
+    "Atlas Coffee Co",
+    "Casa Brumosa Hotels",
+    "Ferro & Filha Furniture",
+    "Ondazul Ceramics"
+  ],
+  "shop": {
+    "currency": "EUR",
+    "products": [
+      {
+        "id": "print-30x40",
+        "label": { "en": "Fine art print", "fr": "Tirage d'art" },
+        "kind": "print",
+        "size": "30 x 40 cm",
+        "price": 90
+      },
+      {
+        "id": "print-50x70",
+        "label": { "en": "Fine art print", "fr": "Tirage d'art" },
+        "kind": "print",
+        "size": "50 x 70 cm",
+        "price": 160
+      },
+      {
+        "id": "framed-50x70",
+        "label": { "en": "Framed print, oak", "fr": "Tirage encadré, chêne" },
+        "kind": "framed",
+        "size": "50 x 70 cm",
+        "price": 290
+      }
+    ],
+    "galleries": ["structures", "terrain"]
+  },
+  "inquiry": {
+    "email": "studio@likwiid.example"
+  },
+  "seo": {
+    "licensable": true,
+    "description": {
+      "en": "Commercial and fine art photography studio in Lisbon. Architecture, still life and minimal landscapes, available as prints and for licensing.",
+      "fr": "Studio de photographie commerciale et d'art à Lisbonne. Architecture, natures mortes et paysages minimaux, disponibles en tirages et sous licence."
+    }
+  },
+  "sections": {
+    "clients": true
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "slug": "ana-likwiid",
+  "archetype": "wedding",
+  "brand": {
+    "name": "Ana Likwiid Photography",
+    "logoText": "Ana Likwiid",
+    "primary": "#7a4a36",
+    "accent": "#c9a26b",
+    "neutral": "#f6f1ea",
+    "fontPairing": "editorial"
+  },
+  "languages": ["pt", "en", "es"],
+  "photographer": {
+    "name": "Ana Likwiid",
+    "portrait": "ana.jpg",
+    "location": "Porto, Portugal",
+    "about": {
+      "pt": "Sou a Ana, fotógrafa de casamentos e retratos no Porto. Conto histórias com luz natural, entre o mar e as vinhas do Douro. O meu trabalho é discreto e afetuoso: fico ao vosso lado e as fotografias acontecem sem pose.",
+      "en": "I am Ana, a wedding and portrait photographer based in Porto. I tell stories with natural light, between the sea and the Douro vineyards. My work is quiet and warm: I stay close to you and the photographs happen without posing.",
+      "es": "Soy Ana, fotógrafa de bodas y retratos en Oporto. Cuento historias con luz natural, entre el mar y los viñedos del Duero. Mi trabajo es discreto y cercano: estoy a vuestro lado y las fotografías suceden sin poses."
+    }
+  },
+  "hero": {
+    "image": "hero.jpg",
+    "heading": {
+      "pt": "Ana Likwiid",
+      "en": "Ana Likwiid",
+      "es": "Ana Likwiid"
+    },
+    "sub": {
+      "pt": "Fotografia de casamento no Porto e no Douro",
+      "en": "Wedding photography in Porto and the Douro Valley",
+      "es": "Fotografía de boda en Oporto y el Duero"
+    },
+    "cta": "contact"
+  },
+  "galleries": [
+    {
+      "id": "casamentos",
+      "title": { "pt": "Casamentos", "en": "Weddings", "es": "Bodas" },
+      "description": {
+        "pt": "Dias inteiros contados com verdade, do primeiro botão do vestido à última dança.",
+        "en": "Whole days told honestly, from the first button of the dress to the last dance.",
+        "es": "Días enteros contados con verdad, desde el primer botón del vestido hasta el último baile."
+      },
+      "layout": "justified",
+      "location": "Porto, Portugal",
+      "cover": "lago.jpg",
+      "images": [
+        {
+          "file": "veu.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Noiva a rir com o véu ao vento num campo ao fim da tarde",
+            "en": "Bride laughing with her veil blowing in the wind in a field at dusk",
+            "es": "Novia riendo con el velo al viento en un campo al atardecer"
+          }
+        },
+        {
+          "file": "maos.jpg",
+          "alt": {
+            "pt": "Mãos dadas de um casal de noivos com ramo de flores silvestres",
+            "en": "Bride and groom holding hands with a wildflower bouquet",
+            "es": "Novios cogidos de la mano con un ramo de flores silvestres"
+          }
+        },
+        {
+          "file": "caminho.jpg",
+          "alt": {
+            "pt": "Noiva a olhar para trás sorrindo para o noivo num campo dourado",
+            "en": "Bride glancing back and smiling at the groom in a golden field",
+            "es": "Novia mirando atrás y sonriendo al novio en un campo dorado"
+          }
+        },
+        {
+          "file": "bosque.jpg",
+          "alt": {
+            "pt": "Casal de noivos a caminhar de mãos dadas por um caminho entre árvores",
+            "en": "Wedding couple walking hand in hand along a path between trees",
+            "es": "Pareja de novios caminando de la mano por un sendero entre árboles"
+          }
+        },
+        {
+          "file": "abraco.jpg",
+          "alt": {
+            "pt": "Noivo a abraçar a noiva por trás sob uma árvore com luz suave",
+            "en": "Groom embracing the bride from behind under a tree in soft light",
+            "es": "Novio abrazando a la novia por detrás bajo un árbol con luz suave"
+          }
+        },
+        {
+          "file": "sorriso.jpg",
+          "alt": {
+            "pt": "Noiva e noivo lado a lado durante a cerimónia, em preto e branco",
+            "en": "Bride and groom side by side during the ceremony, in black and white",
+            "es": "Novia y novio uno junto al otro durante la ceremonia, en blanco y negro"
+          }
+        },
+        {
+          "file": "ramo.jpg",
+          "alt": {
+            "pt": "Ramo de noiva com rosas cor de rosa seguro à frente do vestido branco",
+            "en": "Bridal bouquet with pink roses held in front of the white dress",
+            "es": "Ramo de novia con rosas rosadas sostenido delante del vestido blanco"
+          }
+        },
+        {
+          "file": "aliancas.jpg",
+          "alt": {
+            "pt": "Alianças douradas pousadas sobre as páginas de um livro aberto",
+            "en": "Gold wedding rings resting on the pages of an open book",
+            "es": "Alianzas doradas sobre las páginas de un libro abierto"
+          }
+        },
+        {
+          "file": "beijo.jpg",
+          "alt": {
+            "pt": "Noivo a beijar a testa da noiva entre eucaliptos",
+            "en": "Groom kissing the bride on the forehead among eucalyptus trees",
+            "es": "Novio besando la frente de la novia entre eucaliptos"
+          }
+        },
+        {
+          "file": "jardim.jpg",
+          "alt": {
+            "pt": "Casal de noivos na escadaria de uma estufa clássica refletida num lago",
+            "en": "Wedding couple on the staircase of a classic greenhouse reflected in a pond",
+            "es": "Pareja de novios en la escalinata de un invernadero clásico reflejado en un estanque"
+          }
+        },
+        {
+          "file": "ponte.jpg",
+          "alt": {
+            "pt": "Noivos sentados numa ponte de madeira sobre um ribeiro entre ervas altas",
+            "en": "Newlyweds sitting on a wooden footbridge over a stream among tall grass",
+            "es": "Novios sentados en un puente de madera sobre un arroyo entre hierbas altas"
+          }
+        },
+        {
+          "file": "lago.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Casal de noivos sentado junto a um lago ao pôr do sol",
+            "en": "Wedding couple sitting by a lake at sunset",
+            "es": "Pareja de novios sentada junto a un lago al atardecer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "retratos",
+      "title": { "pt": "Retratos", "en": "Portraits", "es": "Retratos" },
+      "description": {
+        "pt": "Sessões de retrato e de família com luz natural, sem pressa e sem poses forçadas.",
+        "en": "Portrait and family sessions in natural light, unhurried and unforced.",
+        "es": "Sesiones de retrato y de familia con luz natural, sin prisa y sin poses forzadas."
+      },
+      "layout": "masonry",
+      "location": "Porto, Portugal",
+      "cover": "riso.jpg",
+      "images": [
+        {
+          "file": "riso.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Mulher ruiva a rir num campo de ervas secas no outono",
+            "en": "Red haired woman laughing in a field of dry autumn grass",
+            "es": "Mujer pelirroja riendo en un campo de hierbas secas en otoño"
+          }
+        },
+        {
+          "file": "morena.jpg",
+          "alt": {
+            "pt": "Retrato de mulher de cabelo comprido diante de uma sebe verde",
+            "en": "Portrait of a long haired woman in front of a green hedge",
+            "es": "Retrato de una mujer de pelo largo delante de un seto verde"
+          }
+        },
+        {
+          "file": "caracois.jpg",
+          "alt": {
+            "pt": "Retrato íntimo de mulher com caracóis junto a uma janela",
+            "en": "Intimate portrait of a woman with curls by a window",
+            "es": "Retrato íntimo de una mujer con rizos junto a una ventana"
+          }
+        },
+        {
+          "file": "flores.jpg",
+          "alt": {
+            "pt": "Mulher sorridente com coroa de flores sobre fundo amarelo",
+            "en": "Smiling woman with a flower crown against a yellow background",
+            "es": "Mujer sonriente con corona de flores sobre fondo amarillo"
+          }
+        },
+        {
+          "file": "chapeu.jpg",
+          "alt": {
+            "pt": "Retrato em contraluz de mulher de chapéu e óculos, em preto e branco",
+            "en": "Backlit portrait of a woman with a hat and glasses, in black and white",
+            "es": "Retrato a contraluz de una mujer con sombrero y gafas, en blanco y negro"
+          }
+        },
+        {
+          "file": "arvore.jpg",
+          "alt": {
+            "pt": "Mulher de chapéu a sorrir junto a um tronco de árvore",
+            "en": "Woman in a hat smiling next to a tree trunk",
+            "es": "Mujer con sombrero sonriendo junto al tronco de un árbol"
+          }
+        },
+        {
+          "file": "casal-outono.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Casal em silhueta debaixo de uma árvore dourada junto ao rio",
+            "en": "Couple in silhouette under a golden tree by the river",
+            "es": "Pareja en silueta bajo un árbol dorado junto al río"
+          }
+        },
+        {
+          "file": "familia-praia.jpg",
+          "alt": {
+            "pt": "Família a passear com o cão na praia ao pôr do sol",
+            "en": "Family walking their dog on the beach at sunset",
+            "es": "Familia paseando con su perro por la playa al atardecer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "douro",
+      "title": { "pt": "Douro", "en": "Douro", "es": "Douro" },
+      "description": {
+        "pt": "Sessões ao fim da tarde entre socalcos, vinhas e o rio. O Douro é a nossa segunda casa.",
+        "en": "Late afternoon sessions among terraces, vineyards and the river. The Douro is our second home.",
+        "es": "Sesiones al atardecer entre bancales, viñedos y el río. El Duero es nuestra segunda casa."
+      },
+      "layout": "justified",
+      "location": "Vale do Douro, Portugal",
+      "cover": "quinta.jpg",
+      "images": [
+        {
+          "file": "quinta.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Quinta entre socalcos de vinha no Vale do Douro",
+            "en": "Wine estate among terraced vineyards in the Douro Valley",
+            "es": "Finca entre bancales de viñedo en el Valle del Duero"
+          }
+        },
+        {
+          "file": "socalcos.jpg",
+          "alt": {
+            "pt": "Socalcos de vinha em tons de outono no Douro",
+            "en": "Terraced vineyards in autumn colours in the Douro",
+            "es": "Bancales de viñedo en tonos de otoño en el Duero"
+          }
+        },
+        {
+          "file": "uvas.jpg",
+          "alt": {
+            "pt": "Cachos de uvas tintas entre folhas de videira ao sol",
+            "en": "Bunches of red grapes among vine leaves in the sun",
+            "es": "Racimos de uvas tintas entre hojas de vid al sol"
+          }
+        },
+        {
+          "file": "vinha.jpg",
+          "alt": {
+            "pt": "Uvas maduras penduradas na videira em plena vindima",
+            "en": "Ripe grapes hanging on the vine at harvest time",
+            "es": "Uvas maduras colgando de la vid en plena vendimia"
+          }
+        },
+        {
+          "file": "ribeira.jpg",
+          "alt": {
+            "pt": "Barcos rabelos no rio Douro em frente à Ribeira do Porto",
+            "en": "Rabelo boats on the Douro river in front of Porto's Ribeira",
+            "es": "Barcos rabelos en el río Duero frente a la Ribeira de Oporto"
+          }
+        },
+        {
+          "file": "casal-sol.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Casal sentado debaixo de uma árvore ao pôr do sol cor de rosa",
+            "en": "Couple sitting under a tree at a pink sunset",
+            "es": "Pareja sentada bajo un árbol en un atardecer rosado"
+          }
+        },
+        {
+          "file": "casal-milho.jpg",
+          "alt": {
+            "pt": "Casal abraçado num campo dourado à luz quente do entardecer",
+            "en": "Couple embracing in a golden field in warm evening light",
+            "es": "Pareja abrazada en un campo dorado con la luz cálida del atardecer"
+          }
+        },
+        {
+          "file": "casal-luar.jpg",
+          "alt": {
+            "pt": "Casal sentado nas dunas a ver a lua nascer sobre o horizonte",
+            "en": "Couple sitting on the dunes watching the moon rise over the horizon",
+            "es": "Pareja sentada en las dunas viendo salir la luna sobre el horizonte"
+          }
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "quinta-do-rio",
+      "title": {
+        "pt": "Um casamento na Quinta do Rio",
+        "en": "A wedding at Quinta do Rio",
+        "es": "Una boda en la Quinta do Rio"
+      },
+      "date": "2025-09-20",
+      "venue": "Quinta do Rio",
+      "location": "Vale do Douro, Portugal",
+      "body": {
+        "pt": "A manhã começou devagar, com o vestido pendurado no corredor e a casa cheia de vozes. A cerimónia foi ao fim da tarde, com as vinhas a perder de vista e os copos de vinho do Porto a passar de mão em mão.\n\nQuando o sol desceu, ficámos os três no meio dos socalcos: eles a rir, eu a fotografar. É este o tipo de dia que gosto de contar do princípio ao fim.",
+        "en": "The morning started slowly, with the dress hanging in the hallway and the house full of voices. The ceremony came late in the afternoon, vineyards as far as the eye could see and glasses of Port passing from hand to hand.\n\nWhen the sun went down, the three of us stayed out among the terraces: the two of them laughing, me photographing. This is the kind of day I love to tell from beginning to end.",
+        "es": "La mañana empezó despacio, con el vestido colgado en el pasillo y la casa llena de voces. La ceremonia llegó al atardecer, con viñedos hasta donde alcanza la vista y copas de vino de Oporto pasando de mano en mano.\n\nCuando bajó el sol, nos quedamos los tres entre los bancales: ellos riendo, yo fotografiando. Este es el tipo de día que me gusta contar de principio a fin."
+      },
+      "images": [
+        {
+          "file": "vestido.jpg",
+          "featured": true,
+          "alt": {
+            "pt": "Vestido de noiva pendurado num candeeiro num corredor abobadado",
+            "en": "Wedding dress hanging from a chandelier in a vaulted hallway",
+            "es": "Vestido de novia colgado de una lámpara en un pasillo abovedado"
+          }
+        },
+        {
+          "file": "aliancas.jpg",
+          "alt": {
+            "pt": "Noiva com as alianças na palma das mãos sobre o vestido de renda",
+            "en": "Bride holding the wedding bands in her palms over the lace dress",
+            "es": "Novia con las alianzas en las palmas sobre el vestido de encaje"
+          }
+        },
+        {
+          "file": "corredor.jpg",
+          "alt": {
+            "pt": "Corredor da cerimónia ao ar livre decorado com flores e velas",
+            "en": "Outdoor ceremony aisle decorated with flowers and candles",
+            "es": "Pasillo de la ceremonia al aire libre decorado con flores y velas"
+          }
+        },
+        {
+          "file": "bencao.jpg",
+          "alt": {
+            "pt": "Noivos ajoelhados durante a bênção na capela",
+            "en": "Bride and groom kneeling during the blessing in the chapel",
+            "es": "Novios arrodillados durante la bendición en la capilla"
+          }
+        },
+        {
+          "file": "convidados.jpg",
+          "alt": {
+            "pt": "Convidados em fila com raminhos de flores brancas nas mãos",
+            "en": "Guests in a row holding small bunches of white flowers",
+            "es": "Invitados en fila con ramitos de flores blancas en las manos"
+          }
+        },
+        {
+          "file": "noiva.jpg",
+          "alt": {
+            "pt": "Retrato da noiva com trança e vestido de renda no campo",
+            "en": "Portrait of the bride with a braid and lace dress in the countryside",
+            "es": "Retrato de la novia con trenza y vestido de encaje en el campo"
+          }
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "casamento",
+      "title": {
+        "pt": "Casamento de dia inteiro",
+        "en": "Full wedding day",
+        "es": "Boda de día completo"
+      },
+      "description": {
+        "pt": "Acompanhamento desde os preparativos até à festa, sem limite rígido de horas no próprio dia. Todas as fotografias editadas, entregues numa galeria privada para guardar e partilhar.",
+        "en": "Coverage from getting ready until the party, with no rigid hour limit on the day itself. All edited photographs delivered in a private gallery to keep and share.",
+        "es": "Cobertura desde los preparativos hasta la fiesta, sin límite rígido de horas ese día. Todas las fotografías editadas, entregadas en una galería privada para guardar y compartir."
+      },
+      "startingAt": 1400,
+      "image": "lago.jpg"
+    },
+    {
+      "id": "elopement",
+      "title": {
+        "pt": "Elopement ou casamento civil",
+        "en": "Elopement or civil ceremony",
+        "es": "Elopement o boda civil"
+      },
+      "description": {
+        "pt": "Para cerimónias pequenas e fugas a dois, no Porto, no Douro ou na costa. Algumas horas de fotografia, as histórias todas, zero encenação.",
+        "en": "For small ceremonies and escapes for two, in Porto, the Douro or on the coast. A few hours of photography, all the stories, zero staging.",
+        "es": "Para ceremonias pequeñas y escapadas de dos, en Oporto, el Duero o la costa. Unas horas de fotografía, todas las historias, cero teatro."
+      },
+      "startingAt": 650,
+      "image": "caminho.jpg"
+    },
+    {
+      "id": "retrato",
+      "title": {
+        "pt": "Sessão de retrato",
+        "en": "Portrait session",
+        "es": "Sesión de retratos"
+      },
+      "description": {
+        "pt": "Sessões individuais, de casal ou de família, com luz natural, no exterior ou em vossa casa. Uma hora com calma e uma seleção generosa de fotografias editadas.",
+        "en": "Individual, couple or family sessions in natural light, outdoors or at your home. A calm hour and a generous selection of edited photographs.",
+        "es": "Sesiones individuales, de pareja o de familia con luz natural, al aire libre o en vuestra casa. Una hora con calma y una selección generosa de fotografías editadas."
+      },
+      "startingAt": 180,
+      "image": "familia-praia.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": {
+        "pt": "A Ana esteve connosco o dia todo e quase não demos por ela. Quando vimos as fotografias, estava lá tudo: os nervos, o riso da minha avó, a luz do Douro ao fim da tarde.",
+        "en": "Ana was with us all day and we hardly noticed her. When we saw the photographs, everything was there: the nerves, my grandmother's laughter, the Douro light at dusk.",
+        "es": "Ana estuvo con nosotros todo el día y casi no la notamos. Cuando vimos las fotografías, estaba todo: los nervios, la risa de mi abuela, la luz del Duero al atardecer."
+      },
+      "name": "Mariana e Tomás",
+      "context": {
+        "pt": "Casamento no Vale do Douro",
+        "en": "Wedding in the Douro Valley",
+        "es": "Boda en el Valle del Duero"
+      }
+    },
+    {
+      "quote": {
+        "pt": "Detesto ser fotografada e mesmo assim a sessão soube a passeio. As fotografias com as minhas filhas são as mais verdadeiras que alguma vez tivemos.",
+        "en": "I hate being photographed and even so the session felt like a stroll. The photographs with my daughters are the truest we have ever had.",
+        "es": "Odio que me fotografíen y aun así la sesión pareció un paseo. Las fotografías con mis hijas son las más verdaderas que hemos tenido."
+      },
+      "name": "Sofia",
+      "context": {
+        "pt": "Sessão de família no Porto",
+        "en": "Family session in Porto",
+        "es": "Sesión de familia en Oporto"
+      }
+    }
+  ],
+  "inquiry": {
+    "budgets": [
+      "1000 EUR or less",
+      "1000 to 2000 EUR",
+      "2000 to 3500 EUR",
+      "over 3500 EUR"
+    ],
+    "email": "ola@analikwiid.example"
+  },
+  "proofing": [
+    {
+      "id": "demo-room",
+      "clientName": "Client preview",
+      "password": "likwiid",
+      "shootDate": "2026-06-14",
+      "includedSelects": 5,
+      "expiresNote": {
+        "pt": "Galeria de demonstração. Numa entrega real, esta sala expira trinta dias depois de ser publicada.",
+        "en": "Demonstration gallery. In a real delivery this room expires thirty days after it is published.",
+        "es": "Galería de demostración. En una entrega real, esta sala caduca treinta días después de publicarse."
+      },
+      "passwordHint": {
+        "pt": "likwiid",
+        "en": "likwiid",
+        "es": "likwiid"
+      },
+      "demoSeed": {
+        "favorites": ["praia.jpg", "luzes.jpg"],
+        "selects": ["vermelho.jpg", "sentados.jpg"],
+        "notes": {
+          "vermelho.jpg": "Adoro esta! Será que conseguimos uma impressão grande para a sala?"
+        }
+      },
+      "images": [
+        {
+          "file": "praia.jpg",
+          "alt": {
+            "pt": "Casal de mãos dadas em silhueta no cimo de um monte ao anoitecer",
+            "en": "Couple holding hands in silhouette on a hilltop at dusk",
+            "es": "Pareja de la mano en silueta en lo alto de una colina al anochecer"
+          }
+        },
+        {
+          "file": "luzes.jpg",
+          "alt": {
+            "pt": "Casal a segurar estrelinhas acesas num dia de inverno",
+            "en": "Couple holding lit sparklers on a winter day",
+            "es": "Pareja sosteniendo bengalas encendidas en un día de invierno"
+          }
+        },
+        {
+          "file": "sentados.jpg",
+          "alt": {
+            "pt": "Casal aconchegado numa manta com o anel de noivado em destaque",
+            "en": "Couple snuggled in a blanket with the engagement ring showing",
+            "es": "Pareja arropada en una manta con el anillo de compromiso a la vista"
+          }
+        },
+        {
+          "file": "vermelho.jpg",
+          "alt": {
+            "pt": "Casal num terraço amplo, ela com um vestido vermelho comprido",
+            "en": "Couple on a wide rooftop, her in a long red dress",
+            "es": "Pareja en una azotea amplia, ella con un vestido rojo largo"
+          }
+        },
+        {
+          "file": "doca.jpg",
+          "alt": {
+            "pt": "Casal sentado numa estrutura de madeira a conversar ao sol",
+            "en": "Couple sitting on a wooden structure talking in the sun",
+            "es": "Pareja sentada en una estructura de madera conversando al sol"
+          }
+        },
+        {
+          "file": "familia.jpg",
+          "alt": {
+            "pt": "Família abraçada de costas a olhar para o rio num dia de verão",
+            "en": "Family embracing, seen from behind, looking at the river on a summer day",
+            "es": "Familia abrazada de espaldas mirando el río en un día de verano"
+          }
+        }
+      ]
+    }
+  ],
+  "booking": {
+    "origin": "https://direct.likwiid.com",
+    "slug": "ana-likwiid"
+  },
+  "seo": {
+    "description": {
+      "pt": "Fotografia de casamento e retrato no Porto e no Vale do Douro. Luz natural, dias contados com verdade e entrega em galeria privada.",
+      "en": "Wedding and portrait photography in Porto and the Douro Valley. Natural light, days told honestly and delivery in a private gallery.",
+      "es": "Fotografía de boda y retrato en Oporto y el Valle del Duero. Luz natural, días contados con verdad y entrega en galería privada."
+    },
+    "licensable": false
+  }
+}

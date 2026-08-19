@@ -1,0 +1,2000 @@
+{
+  "version": 2,
+  "entries": {
+    "casamentos/veu.jpg": {
+      "hash": "91b11b518b3212ad6a50e2212b569b73537f284f6cf9a45ed3b0fd7e66824e06",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/veu-400.avif",
+            "config/ana-likwiid/derived/casamentos/veu-800.avif",
+            "config/ana-likwiid/derived/casamentos/veu-1200.avif",
+            "config/ana-likwiid/derived/casamentos/veu-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/veu-400.webp",
+            "config/ana-likwiid/derived/casamentos/veu-800.webp",
+            "config/ana-likwiid/derived/casamentos/veu-1200.webp",
+            "config/ana-likwiid/derived/casamentos/veu-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/veu-400.jpg",
+            "config/ana-likwiid/derived/casamentos/veu-800.jpg",
+            "config/ana-likwiid/derived/casamentos/veu-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/veu-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAgEAACAgEFAAMAAAAAAAAAAAABAwIRAAQFEiIxcdHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAEAUf/aAAwDAQACEQMRAD8AEdqY0yY5ltmeXCI8v2z9ZJpaqUbYy4XRjIfrxOxva7XAsmZEQIFnB7j01bow6jmfPnBMgv/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/veu-1600.jpg"
+      ]
+    },
+    "casamentos/maos.jpg": {
+      "hash": "9c62eb4ad3e249e197bb51b708ff642d54d9dc796b071464276a0c3379857ece",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/maos-400.avif",
+            "config/ana-likwiid/derived/casamentos/maos-800.avif",
+            "config/ana-likwiid/derived/casamentos/maos-1200.avif",
+            "config/ana-likwiid/derived/casamentos/maos-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/maos-400.webp",
+            "config/ana-likwiid/derived/casamentos/maos-800.webp",
+            "config/ana-likwiid/derived/casamentos/maos-1200.webp",
+            "config/ana-likwiid/derived/casamentos/maos-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/maos-400.jpg",
+            "config/ana-likwiid/derived/casamentos/maos-800.jpg",
+            "config/ana-likwiid/derived/casamentos/maos-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/maos-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAiEAACAAQGAwAAAAAAAAAAAAABAgADERIEBQYTYdE0UZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAIDAAAAAAAAAAAAAAAAAAABETFB/9oADAMBAAIRAxEAPwCrCZtMx92xL2mvBNXqAB3B55PnLiEuWlFqBweoDSkpH33ZQWQrafUUah8uTxKqPsS9C1B//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/maos-1600.jpg"
+      ]
+    },
+    "casamentos/caminho.jpg": {
+      "hash": "1b1bd7eef1d6f7a14815b5cb74d726fb722f9e8a631f5d58a6aea4c27ca3b865",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/caminho-400.avif",
+            "config/ana-likwiid/derived/casamentos/caminho-800.avif",
+            "config/ana-likwiid/derived/casamentos/caminho-1200.avif",
+            "config/ana-likwiid/derived/casamentos/caminho-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/caminho-400.webp",
+            "config/ana-likwiid/derived/casamentos/caminho-800.webp",
+            "config/ana-likwiid/derived/casamentos/caminho-1200.webp",
+            "config/ana-likwiid/derived/casamentos/caminho-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/caminho-400.jpg",
+            "config/ana-likwiid/derived/casamentos/caminho-800.jpg",
+            "config/ana-likwiid/derived/casamentos/caminho-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/caminho-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIRAAMEBRIiBlEhMUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8Apj5myuEfKsvuQazZG0yre4WwrlnKhYDdfYMUlrxyKz+A0NsunlVviAJCzA+5BoWUXsP/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/caminho-1600.jpg"
+      ]
+    },
+    "casamentos/bosque.jpg": {
+      "hash": "e33b13364a7544bd938af37c5a00ac72874f755f84b0c85b8880a5b29ad07dea",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1068,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/bosque-400.avif",
+            "config/ana-likwiid/derived/casamentos/bosque-800.avif",
+            "config/ana-likwiid/derived/casamentos/bosque-1200.avif",
+            "config/ana-likwiid/derived/casamentos/bosque-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/bosque-400.webp",
+            "config/ana-likwiid/derived/casamentos/bosque-800.webp",
+            "config/ana-likwiid/derived/casamentos/bosque-1200.webp",
+            "config/ana-likwiid/derived/casamentos/bosque-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/bosque-400.jpg",
+            "config/ana-likwiid/derived/casamentos/bosque-800.jpg",
+            "config/ana-likwiid/derived/casamentos/bosque-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/bosque-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgIBBQEBAAAAAAAAAAAAAQIDEQAEISIxQQUS/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8Ax4pDGYzI3H8no73fRx+ncalGaVyAgtWuuR8wKzyRS6lI2pU2UUNsr82RmLIxtWIJB9N3kYP/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/bosque-1600.jpg"
+      ]
+    },
+    "casamentos/abraco.jpg": {
+      "hash": "16c17a06f5627b7766004e70b76961076d7ebad861ef907515957c513b789ace",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/abraco-400.avif",
+            "config/ana-likwiid/derived/casamentos/abraco-800.avif",
+            "config/ana-likwiid/derived/casamentos/abraco-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/abraco-400.webp",
+            "config/ana-likwiid/derived/casamentos/abraco-800.webp",
+            "config/ana-likwiid/derived/casamentos/abraco-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/abraco-400.jpg",
+            "config/ana-likwiid/derived/casamentos/abraco-800.jpg",
+            "config/ana-likwiid/derived/casamentos/abraco-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAiEAADAAEEAgIDAAAAAAAAAAABAgMABBESIRQxBTKBscH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAAAASFBQv/aAAwDAQACEQMRAD8At6jxFnKSBm3PLdSOzk0Ywbk1D0voE5nNe99LWLBRMEnvb8fo47nBKSWmnZXQj7A75nNUKvkqWtq9EQCpL8V4+x2P5j+yeMwWHGUm72UezhhjyNv/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/abraco-1200.jpg"
+      ]
+    },
+    "casamentos/sorriso.jpg": {
+      "hash": "f42afb70832a4f8fcdbc5f803bfc9e39bf4fac6aaa813575288eb604bb48b33c",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 990,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/sorriso-400.avif",
+            "config/ana-likwiid/derived/casamentos/sorriso-800.avif",
+            "config/ana-likwiid/derived/casamentos/sorriso-1200.avif",
+            "config/ana-likwiid/derived/casamentos/sorriso-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/sorriso-400.webp",
+            "config/ana-likwiid/derived/casamentos/sorriso-800.webp",
+            "config/ana-likwiid/derived/casamentos/sorriso-1200.webp",
+            "config/ana-likwiid/derived/casamentos/sorriso-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/sorriso-400.jpg",
+            "config/ana-likwiid/derived/casamentos/sorriso-800.jpg",
+            "config/ana-likwiid/derived/casamentos/sorriso-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/sorriso-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQADEQIEEgUGISIlQWFysv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCNRunmNWtpzcaqAGBkeCYW62w0405yDGuCQeMwj24z1mz9afpKqe6D/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/sorriso-1600.jpg"
+      ]
+    },
+    "casamentos/ramo.jpg": {
+      "hash": "4a106b3e767cda719c65f12249dc180c72287831fa03e6138e7b5f0081f22450",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1840,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/ramo-400.avif",
+            "config/ana-likwiid/derived/casamentos/ramo-800.avif",
+            "config/ana-likwiid/derived/casamentos/ramo-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/ramo-400.webp",
+            "config/ana-likwiid/derived/casamentos/ramo-800.webp",
+            "config/ana-likwiid/derived/casamentos/ramo-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/ramo-400.jpg",
+            "config/ana-likwiid/derived/casamentos/ramo-800.jpg",
+            "config/ana-likwiid/derived/casamentos/ramo-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAZABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIQAAAFBAIDAQAAAAAAAAAAAAABAgMRBAUSISJBMTJCof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAQADAQAAAAAAAAAAAAAAAAABETFB/9oADAMBAAIRAxEAPwDRtVMdtoGzdLmuV4x6z0JL7NVbzcbQWKTyUU7KdDZuNCqpxdaNJOJKN97/ADsCnt6G6daHIWbicVagoBXFOLTVxCzXBAfIUrwY2H//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ramo-1200.jpg"
+      ]
+    },
+    "casamentos/aliancas.jpg": {
+      "hash": "17e8f5cf3bee690a355bbe681c92757d7e657e3d6329f31eca779896767c682c",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/aliancas-400.avif",
+            "config/ana-likwiid/derived/casamentos/aliancas-800.avif",
+            "config/ana-likwiid/derived/casamentos/aliancas-1200.avif",
+            "config/ana-likwiid/derived/casamentos/aliancas-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/aliancas-400.webp",
+            "config/ana-likwiid/derived/casamentos/aliancas-800.webp",
+            "config/ana-likwiid/derived/casamentos/aliancas-1200.webp",
+            "config/ana-likwiid/derived/casamentos/aliancas-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/aliancas-400.jpg",
+            "config/ana-likwiid/derived/casamentos/aliancas-800.jpg",
+            "config/ana-likwiid/derived/casamentos/aliancas-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/aliancas-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB4QAAIBBQADAAAAAAAAAAAAAAECAAMREiEiBDJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN+oXRsgLpj6wfHZmQo4sdgygjkfIgjGoba5Bgf/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/aliancas-1600.jpg"
+      ]
+    },
+    "casamentos/beijo.jpg": {
+      "hash": "3cb4ee799f664cb4e19e15e8ceff679d27d0563788b2c27ea688a22178a27382",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1065,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/beijo-400.avif",
+            "config/ana-likwiid/derived/casamentos/beijo-800.avif",
+            "config/ana-likwiid/derived/casamentos/beijo-1200.avif",
+            "config/ana-likwiid/derived/casamentos/beijo-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/beijo-400.webp",
+            "config/ana-likwiid/derived/casamentos/beijo-800.webp",
+            "config/ana-likwiid/derived/casamentos/beijo-1200.webp",
+            "config/ana-likwiid/derived/casamentos/beijo-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/beijo-400.jpg",
+            "config/ana-likwiid/derived/casamentos/beijo-800.jpg",
+            "config/ana-likwiid/derived/casamentos/beijo-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/beijo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDAAQxERIhQSJhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAi/9oADAMBAAIRAxEAPwAMFsZ3IUcIurHrNSDoSw2MAG7+Uq0UGO8XocaA+6zYZHa38mJzmoGWW//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/beijo-1600.jpg"
+      ]
+    },
+    "casamentos/jardim.jpg": {
+      "hash": "6560447f8a04598171ad2272a5a99c1037fcd3330c1ae796cd3e93195904fd0c",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/jardim-400.avif",
+            "config/ana-likwiid/derived/casamentos/jardim-800.avif",
+            "config/ana-likwiid/derived/casamentos/jardim-1200.avif",
+            "config/ana-likwiid/derived/casamentos/jardim-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/jardim-400.webp",
+            "config/ana-likwiid/derived/casamentos/jardim-800.webp",
+            "config/ana-likwiid/derived/casamentos/jardim-1200.webp",
+            "config/ana-likwiid/derived/casamentos/jardim-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/jardim-400.jpg",
+            "config/ana-likwiid/derived/casamentos/jardim-800.jpg",
+            "config/ana-likwiid/derived/casamentos/jardim-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/jardim-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIAAwURE3ESIVFhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwChrw+sgNTU+Qe/2FvDaxnWfZMzDUaohVzkcR1lECrgDgQP/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/jardim-1600.jpg"
+      ]
+    },
+    "casamentos/ponte.jpg": {
+      "hash": "95480f7ac197baed9353f77751cbe243ac86888e22870881cfb6164d8002bd60",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1062,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/ponte-400.avif",
+            "config/ana-likwiid/derived/casamentos/ponte-800.avif",
+            "config/ana-likwiid/derived/casamentos/ponte-1200.avif",
+            "config/ana-likwiid/derived/casamentos/ponte-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/ponte-400.webp",
+            "config/ana-likwiid/derived/casamentos/ponte-800.webp",
+            "config/ana-likwiid/derived/casamentos/ponte-1200.webp",
+            "config/ana-likwiid/derived/casamentos/ponte-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/ponte-400.jpg",
+            "config/ana-likwiid/derived/casamentos/ponte-800.jpg",
+            "config/ana-likwiid/derived/casamentos/ponte-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/ponte-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAeEAACAgICAwAAAAAAAAAAAAABAgMRAAQhQSIxMv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8AVsbuqkEb66uXACsjGuOjeEecz+RpSB81YwLG2vuspF6xlE1n/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/ponte-1600.jpg"
+      ]
+    },
+    "casamentos/lago.jpg": {
+      "hash": "65afacdd6d1d463952e53377fd990a636c3969eee61d422c2ff47bf2e1c49d0e",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/casamentos/lago-400.avif",
+            "config/ana-likwiid/derived/casamentos/lago-800.avif",
+            "config/ana-likwiid/derived/casamentos/lago-1200.avif",
+            "config/ana-likwiid/derived/casamentos/lago-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/casamentos/lago-400.webp",
+            "config/ana-likwiid/derived/casamentos/lago-800.webp",
+            "config/ana-likwiid/derived/casamentos/lago-1200.webp",
+            "config/ana-likwiid/derived/casamentos/lago-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/casamentos/lago-400.jpg",
+            "config/ana-likwiid/derived/casamentos/lago-800.jpg",
+            "config/ana-likwiid/derived/casamentos/lago-1200.jpg",
+            "config/ana-likwiid/derived/casamentos/lago-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQIDBBEABRIhMVFB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A2iJ095HEZs14nAPJjSJbrSG0sbeEgC7ru8JGecbBKFlJIo1k51f33AlB0//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/casamentos/lago-1600.jpg"
+      ]
+    },
+    "retratos/riso.jpg": {
+      "hash": "34003b873b57d1bed488b1c72b317c3f31ffa099bfff716e2a36cc8d61748e60",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/riso-400.avif",
+            "config/ana-likwiid/derived/retratos/riso-800.avif",
+            "config/ana-likwiid/derived/retratos/riso-1200.avif",
+            "config/ana-likwiid/derived/retratos/riso-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/riso-400.webp",
+            "config/ana-likwiid/derived/retratos/riso-800.webp",
+            "config/ana-likwiid/derived/retratos/riso-1200.webp",
+            "config/ana-likwiid/derived/retratos/riso-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/riso-400.jpg",
+            "config/ana-likwiid/derived/retratos/riso-800.jpg",
+            "config/ana-likwiid/derived/retratos/riso-1200.jpg",
+            "config/ana-likwiid/derived/retratos/riso-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABwQAAICAwEBAAAAAAAAAAAAAAECAxEAEiETIv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAMAwEAAhEDEQA/AGiaWNCweMULOpIwM8rxLZTosksTmeAbw6t0Vk7IjhUH587rCpiSj//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/riso-1600.jpg"
+      ]
+    },
+    "retratos/morena.jpg": {
+      "hash": "a18e5d0d47bd88629157f0184c2e638ae7d172e65cbab8f38e818a7711945a68",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/morena-400.avif",
+            "config/ana-likwiid/derived/retratos/morena-800.avif",
+            "config/ana-likwiid/derived/retratos/morena-1200.avif",
+            "config/ana-likwiid/derived/retratos/morena-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/morena-400.webp",
+            "config/ana-likwiid/derived/retratos/morena-800.webp",
+            "config/ana-likwiid/derived/retratos/morena-1200.webp",
+            "config/ana-likwiid/derived/retratos/morena-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/morena-400.jpg",
+            "config/ana-likwiid/derived/retratos/morena-800.jpg",
+            "config/ana-likwiid/derived/retratos/morena-1200.jpg",
+            "config/ana-likwiid/derived/retratos/morena-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgb/xAAiEAACAAUDBQAAAAAAAAAAAAABAgADBBESEyFBIjFDwcL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAABB/9oADAMBAAIRAxEAPwCekKWcHEMF6mB5EKpllKi6gKjFsBfsLkWgyydCoPJl+xBcnSp9/H9GII//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/morena-1600.jpg"
+      ]
+    },
+    "retratos/caracois.jpg": {
+      "hash": "002fcef932a66c93a622f4cf7f300bc2e29867766056ffaadf2f979b71aee891",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/caracois-400.avif",
+            "config/ana-likwiid/derived/retratos/caracois-800.avif",
+            "config/ana-likwiid/derived/retratos/caracois-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/caracois-400.webp",
+            "config/ana-likwiid/derived/retratos/caracois-800.webp",
+            "config/ana-likwiid/derived/retratos/caracois-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/caracois-400.jpg",
+            "config/ana-likwiid/derived/retratos/caracois-800.jpg",
+            "config/ana-likwiid/derived/retratos/caracois-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EACIQAAEEAgIBBQAAAAAAAAAAAAEAAgMRBBITQSIUISVRYf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/EABkRAQACAwAAAAAAAAAAAAAAAAABMREhQf/aAAwDAQACEQMRAD8A4uJz3RxRgbyO1s9CrtF57JIZi3kLqNEpNlnKxyCQQSRRrpHZPmxm1l5HlZ/UeljRBshLbBogex+lp6P46TIyQDK52wPdKUsm1FP/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/caracois-1200.jpg"
+      ]
+    },
+    "retratos/flores.jpg": {
+      "hash": "3f6eadc5c58ab61686f42119cc7adc62bd3ed9c050d7287607034b59ea9f53d5",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/flores-400.avif",
+            "config/ana-likwiid/derived/retratos/flores-800.avif",
+            "config/ana-likwiid/derived/retratos/flores-1200.avif",
+            "config/ana-likwiid/derived/retratos/flores-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/flores-400.webp",
+            "config/ana-likwiid/derived/retratos/flores-800.webp",
+            "config/ana-likwiid/derived/retratos/flores-1200.webp",
+            "config/ana-likwiid/derived/retratos/flores-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/flores-400.jpg",
+            "config/ana-likwiid/derived/retratos/flores-800.jpg",
+            "config/ana-likwiid/derived/retratos/flores-1200.jpg",
+            "config/ana-likwiid/derived/retratos/flores-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAIxAAAgECBAcAAAAAAAAAAAAAAQIDAAQFESFBEhMiMVFSYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQADAQAAAAAAAAAAAAAAAAAAESEi/9oADAMBAAIRAxEAPwDbvXlS0cwEB8tCdvtDh08stu3PJYhiFf2HmhvXYzJGSeArmRsalv0XARNFKk5DttQHkYof/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/flores-1600.jpg"
+      ]
+    },
+    "retratos/chapeu.jpg": {
+      "hash": "97e12401826ac3ade1031dd243c139bc009ad9e02ac04e6dff45c71e353d100c",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1006,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/chapeu-400.avif",
+            "config/ana-likwiid/derived/retratos/chapeu-800.avif",
+            "config/ana-likwiid/derived/retratos/chapeu-1200.avif",
+            "config/ana-likwiid/derived/retratos/chapeu-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/chapeu-400.webp",
+            "config/ana-likwiid/derived/retratos/chapeu-800.webp",
+            "config/ana-likwiid/derived/retratos/chapeu-1200.webp",
+            "config/ana-likwiid/derived/retratos/chapeu-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/chapeu-400.jpg",
+            "config/ana-likwiid/derived/retratos/chapeu-800.jpg",
+            "config/ana-likwiid/derived/retratos/chapeu-1200.jpg",
+            "config/ana-likwiid/derived/retratos/chapeu-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAID/8QAJhAAAQIEAwkAAAAAAAAAAAAAAQIFAAMEERIVITEyQUNFdJGywv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCWd3mN9EozEko2J04xk+VEytbKeeq6xjXjNt06WHiCdFPcJ9VQ5tJyOoF+Z8iA/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/chapeu-1600.jpg"
+      ]
+    },
+    "retratos/arvore.jpg": {
+      "hash": "68a011209146a3590ff0eca1b3d0ca1437ddd54975126a885fc0e29362f30ba9",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1174,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/arvore-400.avif",
+            "config/ana-likwiid/derived/retratos/arvore-800.avif",
+            "config/ana-likwiid/derived/retratos/arvore-1200.avif",
+            "config/ana-likwiid/derived/retratos/arvore-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/arvore-400.webp",
+            "config/ana-likwiid/derived/retratos/arvore-800.webp",
+            "config/ana-likwiid/derived/retratos/arvore-1200.webp",
+            "config/ana-likwiid/derived/retratos/arvore-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/arvore-400.jpg",
+            "config/ana-likwiid/derived/retratos/arvore-800.jpg",
+            "config/ana-likwiid/derived/retratos/arvore-1200.jpg",
+            "config/ana-likwiid/derived/retratos/arvore-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAIBAwQDAAAAAAAAAAAAAAECAwASIQQTIkExMmH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM1JCsbwrcqh/Yk+PtNyaaLZYRtct3FickdVLmcs+T0BRo5XEdoOAakv/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/arvore-1600.jpg"
+      ]
+    },
+    "retratos/casal-outono.jpg": {
+      "hash": "3b20ad760bc6233a0b7552114563fdb8521b50972700d2e0344cd43ed1fbe346",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 800,
+        "height": 1202,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/casal-outono-400.avif",
+            "config/ana-likwiid/derived/retratos/casal-outono-800.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/casal-outono-400.webp",
+            "config/ana-likwiid/derived/retratos/casal-outono-800.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/casal-outono-400.jpg",
+            "config/ana-likwiid/derived/retratos/casal-outono-800.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EACYQAAEDAwMCBwAAAAAAAAAAAAECAxEABCESEzEFFEFCUXGBscH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8AQ7U5KkmDgxwPSsO3OB5o55jJq7dJZtWlICAVEZKIMD8qMX5fXuogydSSfGDx8/dRxWrSm7rcS4u0bSmZ0l1OTSFw4kddCw3ata2yIU8CjVjPvFFFJhX/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/casal-outono-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/casal-outono-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/casal-outono-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/casal-outono-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/casal-outono-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/casal-outono-800.jpg"
+      ]
+    },
+    "retratos/familia-praia.jpg": {
+      "hash": "a713180383d380c348a4431c411e11563a215374aa6fceaca9509d52ff228069",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/retratos/familia-praia-400.avif",
+            "config/ana-likwiid/derived/retratos/familia-praia-800.avif",
+            "config/ana-likwiid/derived/retratos/familia-praia-1200.avif",
+            "config/ana-likwiid/derived/retratos/familia-praia-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/retratos/familia-praia-400.webp",
+            "config/ana-likwiid/derived/retratos/familia-praia-800.webp",
+            "config/ana-likwiid/derived/retratos/familia-praia-1200.webp",
+            "config/ana-likwiid/derived/retratos/familia-praia-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/retratos/familia-praia-400.jpg",
+            "config/ana-likwiid/derived/retratos/familia-praia-800.jpg",
+            "config/ana-likwiid/derived/retratos/familia-praia-1200.jpg",
+            "config/ana-likwiid/derived/retratos/familia-praia-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAwQRBRIxcdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACETH/2gAMAwEAAhEDEQA/AEFOTUyjREm7LpUHtBvF8llvYFe3sD52o+TfdVsp2yqT6hu1cWJULcJ//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/retratos/familia-praia-1600.jpg"
+      ]
+    },
+    "douro/quinta.jpg": {
+      "hash": "d7465fd0322b20b47f16de4226f6826d4887aed4687c4a62f263945e29def7cf",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 900,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/quinta-400.avif",
+            "config/ana-likwiid/derived/douro/quinta-800.avif",
+            "config/ana-likwiid/derived/douro/quinta-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/quinta-400.webp",
+            "config/ana-likwiid/derived/douro/quinta-800.webp",
+            "config/ana-likwiid/derived/douro/quinta-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/quinta-400.jpg",
+            "config/ana-likwiid/derived/douro/quinta-800.jpg",
+            "config/ana-likwiid/derived/douro/quinta-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQP/xAAdEAEAAgICAwAAAAAAAAAAAAABAhIAESFBAzFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhEDEQA/AIWl5DcNEfW+8nWApVX7Jws6DrCE28uDgyLpZAL/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/quinta-1200.jpg"
+      ]
+    },
+    "douro/socalcos.jpg": {
+      "hash": "fc08a04825ace3beb0566540a40ceb5bc3d932ce54bac352c200cac770c56942",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1062,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/socalcos-400.avif",
+            "config/ana-likwiid/derived/douro/socalcos-800.avif",
+            "config/ana-likwiid/derived/douro/socalcos-1200.avif",
+            "config/ana-likwiid/derived/douro/socalcos-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/socalcos-400.webp",
+            "config/ana-likwiid/derived/douro/socalcos-800.webp",
+            "config/ana-likwiid/derived/douro/socalcos-1200.webp",
+            "config/ana-likwiid/derived/douro/socalcos-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/socalcos-400.jpg",
+            "config/ana-likwiid/derived/douro/socalcos-800.jpg",
+            "config/ana-likwiid/derived/douro/socalcos-1200.jpg",
+            "config/ana-likwiid/derived/douro/socalcos-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAIBAwQDAAAAAAAAAAAAAAECAwARIQQGQXESIsH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKDbkTiBlHBZwKE24JZEPjAt+Mk36rOR+xuc902xI05IwbfRUtOjiP/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/socalcos-1600.jpg"
+      ]
+    },
+    "douro/uvas.jpg": {
+      "hash": "0fbc5813c80c923633f5234d754cc7d679bc23df422e5428c536193a668c8f9b",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/uvas-400.avif",
+            "config/ana-likwiid/derived/douro/uvas-800.avif",
+            "config/ana-likwiid/derived/douro/uvas-1200.avif",
+            "config/ana-likwiid/derived/douro/uvas-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/uvas-400.webp",
+            "config/ana-likwiid/derived/douro/uvas-800.webp",
+            "config/ana-likwiid/derived/douro/uvas-1200.webp",
+            "config/ana-likwiid/derived/douro/uvas-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/uvas-400.jpg",
+            "config/ana-likwiid/derived/douro/uvas-800.jpg",
+            "config/ana-likwiid/derived/douro/uvas-1200.jpg",
+            "config/ana-likwiid/derived/douro/uvas-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACIQAAICAgIABwAAAAAAAAAAAAECAxEABBMhFDEyQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8Azt6d9eMwrIKb1gL5e1HE6mrGNyLkZgg7clevmryuNFklpxYaQA/feDuE+BgWzXI/X5QyM2GeBC3/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/uvas-1600.jpg"
+      ]
+    },
+    "douro/vinha.jpg": {
+      "hash": "74383df3cfc3ef9b959eb28b82afa392c8e7306aa1a988909af2a0f74a810790",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/vinha-400.avif",
+            "config/ana-likwiid/derived/douro/vinha-800.avif",
+            "config/ana-likwiid/derived/douro/vinha-1200.avif",
+            "config/ana-likwiid/derived/douro/vinha-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/vinha-400.webp",
+            "config/ana-likwiid/derived/douro/vinha-800.webp",
+            "config/ana-likwiid/derived/douro/vinha-1200.webp",
+            "config/ana-likwiid/derived/douro/vinha-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/vinha-400.jpg",
+            "config/ana-likwiid/derived/douro/vinha-800.jpg",
+            "config/ana-likwiid/derived/douro/vinha-1200.jpg",
+            "config/ana-likwiid/derived/douro/vinha-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAgEAABAwQCAwAAAAAAAAAAAAABAgMRAAUSIQQxQXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAXEQADAQAAAAAAAAAAAAAAAAAAESFB/9oADAMBAAIRAxEAPwAzbjiMipSgDIWAQNGmW3hschLzU9QY8TB39qWtILbgjWJqnaVEWkrBhQy2PQqJRjD/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/vinha-1600.jpg"
+      ]
+    },
+    "douro/ribeira.jpg": {
+      "hash": "f69c6023dbeadf1c033ef54082b20ac93b1d1a6f997d087b9dc7f368128cad93",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/ribeira-400.avif",
+            "config/ana-likwiid/derived/douro/ribeira-800.avif",
+            "config/ana-likwiid/derived/douro/ribeira-1200.avif",
+            "config/ana-likwiid/derived/douro/ribeira-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/ribeira-400.webp",
+            "config/ana-likwiid/derived/douro/ribeira-800.webp",
+            "config/ana-likwiid/derived/douro/ribeira-1200.webp",
+            "config/ana-likwiid/derived/douro/ribeira-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/ribeira-400.jpg",
+            "config/ana-likwiid/derived/douro/ribeira-800.jpg",
+            "config/ana-likwiid/derived/douro/ribeira-1200.jpg",
+            "config/ana-likwiid/derived/douro/ribeira-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIAAwQRBRIhFSIxUYL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAIDAAAAAAAAAAAAAAAAAAAhAUFR/9oADAMBAAIRAxEAPwBo1O3J7rVh9SdWTcAtqi+xnJmcrZa5YEnA8cxlMbFCrwBKubAsP//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/ribeira-1600.jpg"
+      ]
+    },
+    "douro/casal-sol.jpg": {
+      "hash": "c8f66d33d9b4e1f58f5a08f524954c6368580cd46f4db1fb7b69eb00668f895f",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/casal-sol-400.avif",
+            "config/ana-likwiid/derived/douro/casal-sol-800.avif",
+            "config/ana-likwiid/derived/douro/casal-sol-1200.avif",
+            "config/ana-likwiid/derived/douro/casal-sol-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/casal-sol-400.webp",
+            "config/ana-likwiid/derived/douro/casal-sol-800.webp",
+            "config/ana-likwiid/derived/douro/casal-sol-1200.webp",
+            "config/ana-likwiid/derived/douro/casal-sol-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/casal-sol-400.jpg",
+            "config/ana-likwiid/derived/douro/casal-sol-800.jpg",
+            "config/ana-likwiid/derived/douro/casal-sol-1200.jpg",
+            "config/ana-likwiid/derived/douro/casal-sol-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQhBRESIhMjMeH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEQMRAD8Ag6c08DCEAO2w5fKxLvSJbOVRICQzcQwyCT8por+58Q9p6srLgYIODQ3F3OYrdDJ1TKjYYO37QFquc3//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-sol-1600.jpg"
+      ]
+    },
+    "douro/casal-milho.jpg": {
+      "hash": "8c3c36716e2f601d7d273459237d153d9a6962fa725a61e6bc1c5632a27a6227",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/casal-milho-400.avif",
+            "config/ana-likwiid/derived/douro/casal-milho-800.avif",
+            "config/ana-likwiid/derived/douro/casal-milho-1200.avif",
+            "config/ana-likwiid/derived/douro/casal-milho-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/casal-milho-400.webp",
+            "config/ana-likwiid/derived/douro/casal-milho-800.webp",
+            "config/ana-likwiid/derived/douro/casal-milho-1200.webp",
+            "config/ana-likwiid/derived/douro/casal-milho-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/casal-milho-400.jpg",
+            "config/ana-likwiid/derived/douro/casal-milho-800.jpg",
+            "config/ana-likwiid/derived/douro/casal-milho-1200.jpg",
+            "config/ana-likwiid/derived/douro/casal-milho-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQIAAxEEEiEFFTFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAMAwEAAhEDEQA/AFR1/FL76tzqOMcZ+yjvmnesNlkPphMqPMTMSoJJJJMOF0//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-milho-1600.jpg"
+      ]
+    },
+    "douro/casal-luar.jpg": {
+      "hash": "9713dc9b0f995d21d57e2416e9d40b1c20e73a485b9629a823f72568c805987c",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/douro/casal-luar-400.avif",
+            "config/ana-likwiid/derived/douro/casal-luar-800.avif",
+            "config/ana-likwiid/derived/douro/casal-luar-1200.avif",
+            "config/ana-likwiid/derived/douro/casal-luar-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/douro/casal-luar-400.webp",
+            "config/ana-likwiid/derived/douro/casal-luar-800.webp",
+            "config/ana-likwiid/derived/douro/casal-luar-1200.webp",
+            "config/ana-likwiid/derived/douro/casal-luar-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/douro/casal-luar-400.jpg",
+            "config/ana-likwiid/derived/douro/casal-luar-800.jpg",
+            "config/ana-likwiid/derived/douro/casal-luar-1200.jpg",
+            "config/ana-likwiid/derived/douro/casal-luar-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAHhABAAEEAgMAAAAAAAAAAAAAAQIAAwQRBSESQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8Aw8TjY3ompG37QzcG1jj5TN+g7qS1cmQ0SQo3JIaHqlyY/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/douro/casal-luar-1600.jpg"
+      ]
+    },
+    "stories/quinta-do-rio/vestido.jpg": {
+      "hash": "0d3fcc76aa0ac87c40290c65fa4321e7adc47c3d043fa7f63633665c1c429fbc",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-400.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-800.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-400.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-800.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-400.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-800.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/vestido-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAIxAAAgEDAgcBAAAAAAAAAAAAAQIDABESIVEEBRMiMUFxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAFxEBAQEBAAAAAAAAAAAAAAAAABFBIf/aAAwDAQACEQMRAD8A1wCNgWdrZHBfu1J+koDRvfE4t92qvAtHJI6sFDFe3Tych+U4140kRVxLAd2ng3qJykuK8ulhRZVcAH0d9b05jLE6RKoBPs7a3pSlwb//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/vestido-1200.jpg"
+      ]
+    },
+    "stories/quinta-do-rio/aliancas.jpg": {
+      "hash": "6208454b0ad1c79e91ce45cc5943ac40831af9542549a5dd3fe13e421f9e27a9",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-400.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-800.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1200.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-400.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-800.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1200.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-400.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-800.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1200.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIDEQAEEjFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oADAMBAAIRAxEAPwByCI6WggrqRiC5r05O6o2oDFVp6cS5DLTAEZk6KqkKoHwYhapp/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/aliancas-1600.jpg"
+      ]
+    },
+    "stories/quinta-do-rio/corredor.jpg": {
+      "hash": "d5ffb2d17dcac60dc51929d4f5a16227b14b8e6ab2638f0d40488f54583b7001",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-400.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-800.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1200.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-400.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-800.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1200.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-400.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-800.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1200.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAACAgICAQUAAAAAAAAAAAABAgMRAAQSMWEFEyFBcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBAhL/2gAMAwEAAhEDEQA/AFzPDvJHFbkobQXSk11+ZOn0tnWYS+8Y34BRRtOqIF/XjHelHmzs3yVNDxj9hVeJgwBBHRyDkeas/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/corredor-1600.jpg"
+      ]
+    },
+    "stories/quinta-do-rio/bencao.jpg": {
+      "hash": "07147d65fac48536b0c6964baad811d13fa95cac98968ec148a82f4e30c43338",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1799,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-400.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-800.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-400.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-800.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-400.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-800.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/bencao-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EAB8QAAEEAwADAQAAAAAAAAAAAAECAwQRABIhBTFBE//EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AneQjp3b5zUesIkYCYk1V3w/M0yH2ESW1OBboaRtSTQPao4pPkYrnlgW0qQgnUcFDnvAym4XFhuLhlxaj+ik2AR1WRWFavp3OtfausMMWIr//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/bencao-1200.jpg"
+      ]
+    },
+    "stories/quinta-do-rio/convidados.jpg": {
+      "hash": "873e1da1491fd74b932ee1edcc44d643da507668689a5907c44f02892b55f2d1",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 983,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-400.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-800.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1200.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-400.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-800.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1200.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-400.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-800.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1200.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAID/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIEAAMREiExMjVBof/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAwADAAAAAAAAAAAAAAAAAAECERIh/9oADAMBAAIRAxEAPwA8KQ8lLg1GltRkseMk1Ty7dvDEhm16XrnoflYwPUzT93Wgt5Gqb6Mzssn/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/convidados-1600.jpg"
+      ]
+    },
+    "stories/quinta-do-rio/noiva.jpg": {
+      "hash": "6ba4d55a04510e48a6b39fecfe784799350090ca1bc858ee535b9bafd2d6a120",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-400.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-800.avif",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-400.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-800.webp",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-400.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-800.jpg",
+            "config/ana-likwiid/derived/stories/quinta-do-rio/noiva-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EACIQAAIBAwMFAQAAAAAAAAAAAAECAwAEEQUTIRIUIjFhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABYRAQEBAAAAAAAAAAAAAAAAAABBAf/aAAwDAQACEQMRAD8Afv8AS+46JI3KSJzkDk0PLurANlUkTBDBxgqV+fafudTt4oHeOaJ3A8VDezQ76hDM0M8rrA2SssYcc/hxU6XDYpa9wu5GGABwPeTWNSSCa4PTGIwvAxxkfaqqyhj/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/stories/quinta-do-rio/noiva-1200.jpg"
+      ]
+    },
+    "proofing/demo-room/praia.jpg": {
+      "hash": "814432318d33fdd09cc52525aac4d436441eca29124bfb63526d7be7a702748d",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/proofing/demo-room/praia-400.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/praia-800.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/praia-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/proofing/demo-room/praia-400.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/praia-800.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/praia-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/proofing/demo-room/praia-400.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/praia-800.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/praia-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUG/8QAIRAAAwACAQMFAAAAAAAAAAAAAQIDAAQxBRFREiEiQZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAgMh/9oADAMBAAIRAxEAPwBOOr3HGWnU9uM0JTRFBowUEgdz5PGNJCdZ+ubBlP2MS9QoHNblqdVeswjoCAwb8yev1mmrBYyX4r5OGGFcjJNJ7f/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/praia-1200.jpg"
+      ]
+    },
+    "proofing/demo-room/luzes.jpg": {
+      "hash": "71022f06389e2dd63a5737c560392493d545beb75b91f5ebace1da15b3d2fc75",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-400.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-800.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-1200.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-400.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-800.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-1200.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-400.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-800.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-1200.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/luzes-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQQxAAUGEkFRYoH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwCzeQSzT0VRYWFJ9T8n84mT3ES9ciY0winQgER6NHd+4rh5EaY/TzGJFU2RfpBNWBvmPmRJFmzJGtKuhviGsqhf/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/luzes-1600.jpg"
+      ]
+    },
+    "proofing/demo-room/sentados.jpg": {
+      "hash": "87cf9a6ecde01dcd2b86987aaf5c5d106d557059560e1f3812d9550d522cdc01",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-400.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-800.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-1200.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-400.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-800.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-1200.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-400.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-800.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-1200.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/sentados-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAdEAACAwACAwAAAAAAAAAAAAABAgADERIhBDGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8AjHOW7sb49tyVWoo5KwBG+xAiNcBFAXrR38lg/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/sentados-1600.jpg"
+      ]
+    },
+    "proofing/demo-room/vermelho.jpg": {
+      "hash": "531a28dd5b9c6b9c63b06f1f4f797e181f6b3ff2af67f7e0ec6e0643f0e5577e",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1062,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-400.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-800.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-1200.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-400.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-800.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-1200.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-400.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-800.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-1200.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/vermelho-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBv/EAB0QAQADAAEFAAAAAAAAAAAAAAEAAgMiBBESYnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oADAMBAAIRAxEAPwDQ9Nl4UApc+1j6AiNLvb1l83jBo8WFMZR//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/vermelho-1600.jpg"
+      ]
+    },
+    "proofing/demo-room/doca.jpg": {
+      "hash": "ddfabbd87ac9bb5d176560bf4cb992564319feec8c12b20602d3e104807bba56",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1200,
+        "height": 1694,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/proofing/demo-room/doca-400.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/doca-800.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/doca-1200.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/proofing/demo-room/doca-400.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/doca-800.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/doca-1200.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/proofing/demo-room/doca-400.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/doca-800.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/doca-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAXABADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAIhABAAIBAwMFAAAAAAAAAAAAAQIRAAMEISJBoRITMsHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAMAwEAAhEDEQA/ALbfX9+EdWqitEfH1kw14qiPoVDp5M5O21CG10ib0kmTZdGbR3UdKFxkWvJXHPbyYTtOkIyTaSAPly96fzF7pvDDEv/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/doca-1200.jpg"
+      ]
+    },
+    "proofing/demo-room/familia.jpg": {
+      "hash": "d81499cc34951307fea6e1b24288fd7e5d7462f44636ded42cdfc2beedabbe34",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1064,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/proofing/demo-room/familia-400.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-800.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-1200.avif",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/proofing/demo-room/familia-400.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-800.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-1200.webp",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/proofing/demo-room/familia-400.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-800.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-1200.jpg",
+            "config/ana-likwiid/derived/proofing/demo-room/familia-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAED/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIDAAQFETEhMkFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBERMhUf/aAAwDAQACEQMRAD8AY+Zs1UCO2nbxwBQ58qWeOSO30o2CrHmoJGIAJ6fKyn79+qcm6J4ReH//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/proofing/demo-room/familia-1600.jpg"
+      ]
+    },
+    "site/hero.jpg": {
+      "hash": "0db483a15ddb8383c2dfd0ed47ea933daa6fd237233a16799a63d421ca88437a",
+      "params": "2ac90d444a6a169efc181e0fd2199e3c94c49af646d5dc893a5ed05ca60c691b",
+      "rendition": {
+        "width": 2400,
+        "height": 1602,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/site/hero-400.avif",
+            "config/ana-likwiid/derived/site/hero-800.avif",
+            "config/ana-likwiid/derived/site/hero-1200.avif",
+            "config/ana-likwiid/derived/site/hero-1600.avif",
+            "config/ana-likwiid/derived/site/hero-2000.avif",
+            "config/ana-likwiid/derived/site/hero-2400.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/site/hero-400.webp",
+            "config/ana-likwiid/derived/site/hero-800.webp",
+            "config/ana-likwiid/derived/site/hero-1200.webp",
+            "config/ana-likwiid/derived/site/hero-1600.webp",
+            "config/ana-likwiid/derived/site/hero-2000.webp",
+            "config/ana-likwiid/derived/site/hero-2400.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/site/hero-400.jpg",
+            "config/ana-likwiid/derived/site/hero-800.jpg",
+            "config/ana-likwiid/derived/site/hero-1200.jpg",
+            "config/ana-likwiid/derived/site/hero-1600.jpg",
+            "config/ana-likwiid/derived/site/hero-2000.jpg",
+            "config/ana-likwiid/derived/site/hero-2400.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000,
+          2400
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EAB0QAAICAwEBAQAAAAAAAAAAAAECAwQAESEFEkH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAwDAQACEQMRAD8AvSezXkhY0nEsg7oqQNb7iw9uOhXIsNNZb6JDqo6PzM75cjvIyMxK/B5gLEjiPQY67kOjLl//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-2000.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-2400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-2400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/hero-2400.jpg"
+      ]
+    },
+    "site/ana.jpg": {
+      "hash": "e5a003af276e88a68ad26c56547c7dc7d7993ab145a8752798d0223f445b36da",
+      "params": "e2910528066df50620b66f4de00b1b8c73a17c120d2bc1aea42efde1bb121aba",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/ana-likwiid/derived/site/ana-400.avif",
+            "config/ana-likwiid/derived/site/ana-800.avif",
+            "config/ana-likwiid/derived/site/ana-1200.avif",
+            "config/ana-likwiid/derived/site/ana-1600.avif"
+          ],
+          "webp": [
+            "config/ana-likwiid/derived/site/ana-400.webp",
+            "config/ana-likwiid/derived/site/ana-800.webp",
+            "config/ana-likwiid/derived/site/ana-1200.webp",
+            "config/ana-likwiid/derived/site/ana-1600.webp"
+          ],
+          "jpeg": [
+            "config/ana-likwiid/derived/site/ana-400.jpg",
+            "config/ana-likwiid/derived/site/ana-800.jpg",
+            "config/ana-likwiid/derived/site/ana-1200.jpg",
+            "config/ana-likwiid/derived/site/ana-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACQQAAECBQIHAAAAAAAAAAAAAAECAwAEBRFBEiETFCIxMmGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAkH/2gAMAwEAAhEDEQA/AM+QcVIPcww5fSPFQxFVQrs7wASkthfUnvuDiEUknRMnIZXb1tBriiuRpxUbksm/2DyJ2TSN/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/ana-likwiid/derived/site/ana-1600.jpg"
+      ]
+    }
+  }
+}

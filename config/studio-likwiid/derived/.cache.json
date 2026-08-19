@@ -1,0 +1,1699 @@
+{
+  "version": 2,
+  "entries": {
+    "structures/triangles.jpg": {
+      "hash": "78c7724e0de5dcdc1bb576be7112cab35bf346ebefb75768585051b34c1ecf98",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1200,
+        "height": 1997,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/triangles-400.avif",
+            "config/studio-likwiid/derived/structures/triangles-800.avif",
+            "config/studio-likwiid/derived/structures/triangles-1200.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/triangles-400.webp",
+            "config/studio-likwiid/derived/structures/triangles-800.webp",
+            "config/studio-likwiid/derived/structures/triangles-1200.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/triangles-400.jpg",
+            "config/studio-likwiid/derived/structures/triangles-800.jpg",
+            "config/studio-likwiid/derived/structures/triangles-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAbABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDAAQREiFRBRMxQSJhcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwB6TaNSe4zghW07AA881VCzsEVlVCpDD+Vnadkjkjg+TlQVDtjP7xVIwhZV8TIuvZvR5HFUgL0jD27CNXWZdzICDnfxv9UhcXsdoO664wMYwMsaI6a7W+oRHSCN/daOpRJcWPelUNJ4z490iP/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/triangles-1200.jpg"
+      ]
+    },
+    "structures/monolith.jpg": {
+      "hash": "58622f3eb9c8061a9ae6ce71e08211beb724c6622796f392d8cd76695e3c3337",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1200,
+        "height": 1500,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/monolith-400.avif",
+            "config/studio-likwiid/derived/structures/monolith-800.avif",
+            "config/studio-likwiid/derived/structures/monolith-1200.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/monolith-400.webp",
+            "config/studio-likwiid/derived/structures/monolith-800.webp",
+            "config/studio-likwiid/derived/structures/monolith-1200.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/monolith-400.jpg",
+            "config/studio-likwiid/derived/structures/monolith-800.jpg",
+            "config/studio-likwiid/derived/structures/monolith-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAUABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwb/xAAjEAACAQQBAwUAAAAAAAAAAAABAgMABAURMSEyYQYScaHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM/jsPPdwNchPdHHyoPVvio3+Lkt4Fu1UrDIRpTyu6ZemlnbIySbKIsRJUHQO+BVOVMr3cTtt0aLs308gUDfEALHduo0SVH1SuYkxWznuD634I/KKKD/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/monolith-1200.jpg"
+      ]
+    },
+    "structures/windows.jpg": {
+      "hash": "21a38229d46babad8b39176529540df7ea868581270b463c44e13e62d59444fb",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1251,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/windows-400.avif",
+            "config/studio-likwiid/derived/structures/windows-800.avif",
+            "config/studio-likwiid/derived/structures/windows-1200.avif",
+            "config/studio-likwiid/derived/structures/windows-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/windows-400.webp",
+            "config/studio-likwiid/derived/structures/windows-800.webp",
+            "config/studio-likwiid/derived/structures/windows-1200.webp",
+            "config/studio-likwiid/derived/structures/windows-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/windows-400.jpg",
+            "config/studio-likwiid/derived/structures/windows-800.jpg",
+            "config/studio-likwiid/derived/structures/windows-1200.jpg",
+            "config/studio-likwiid/derived/structures/windows-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgED/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACEQMEEiExQVFhgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC0MAzcT0jcgYHQ+rO2qOdTgxx4QunEMj0mL//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/windows-1600.jpg"
+      ]
+    },
+    "structures/weave.jpg": {
+      "hash": "aa8252d797368056988639cf5bb016ccf804e8b89e7fc78d999a3c3e28a8d4a7",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/weave-400.avif",
+            "config/studio-likwiid/derived/structures/weave-800.avif",
+            "config/studio-likwiid/derived/structures/weave-1200.avif",
+            "config/studio-likwiid/derived/structures/weave-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/weave-400.webp",
+            "config/studio-likwiid/derived/structures/weave-800.webp",
+            "config/studio-likwiid/derived/structures/weave-1200.webp",
+            "config/studio-likwiid/derived/structures/weave-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/weave-400.jpg",
+            "config/studio-likwiid/derived/structures/weave-800.jpg",
+            "config/studio-likwiid/derived/structures/weave-1200.jpg",
+            "config/studio-likwiid/derived/structures/weave-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAG/8QAHRABAAEFAAMAAAAAAAAAAAAAAQIABAUREgMhMf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwArF5aVshPTo0LSV9nOrLyAnczk18CsoNUpKe2g/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/weave-1600.jpg"
+      ]
+    },
+    "structures/atrium.jpg": {
+      "hash": "c78f84659660f61a61ec7e97bdbfbc5f71d2285d71df312857527e9ff8894c7f",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/atrium-400.avif",
+            "config/studio-likwiid/derived/structures/atrium-800.avif",
+            "config/studio-likwiid/derived/structures/atrium-1200.avif",
+            "config/studio-likwiid/derived/structures/atrium-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/atrium-400.webp",
+            "config/studio-likwiid/derived/structures/atrium-800.webp",
+            "config/studio-likwiid/derived/structures/atrium-1200.webp",
+            "config/studio-likwiid/derived/structures/atrium-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/atrium-400.jpg",
+            "config/studio-likwiid/derived/structures/atrium-800.jpg",
+            "config/studio-likwiid/derived/structures/atrium-1200.jpg",
+            "config/studio-likwiid/derived/structures/atrium-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQX/xAAfEAACAgIBBQAAAAAAAAAAAAABAgMEAFERBQYSQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AjdAp17l0JZYBfvvHuClDTt+MDAqdZLjdkblGII1jLI8jcuxY7OB//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/atrium-1600.jpg"
+      ]
+    },
+    "structures/copper-wave.jpg": {
+      "hash": "bac282d31f702919eaa5d4f5e3c2de7d05ccb16135bd288f3d41bbbdd0c2c2fe",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1062,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/copper-wave-400.avif",
+            "config/studio-likwiid/derived/structures/copper-wave-800.avif",
+            "config/studio-likwiid/derived/structures/copper-wave-1200.avif",
+            "config/studio-likwiid/derived/structures/copper-wave-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/copper-wave-400.webp",
+            "config/studio-likwiid/derived/structures/copper-wave-800.webp",
+            "config/studio-likwiid/derived/structures/copper-wave-1200.webp",
+            "config/studio-likwiid/derived/structures/copper-wave-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/copper-wave-400.jpg",
+            "config/studio-likwiid/derived/structures/copper-wave-800.jpg",
+            "config/studio-likwiid/derived/structures/copper-wave-1200.jpg",
+            "config/studio-likwiid/derived/structures/copper-wave-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwb/xAAgEAABAwQCAwAAAAAAAAAAAAACAQMRAAQFMRIiQVKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8ALCZwmjQLttxmdGIrx+p4qqDINEPYkj2TVS+EdN1kkcLkiamlujIZhYqfbi6GwpKz/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/copper-wave-1600.jpg"
+      ]
+    },
+    "structures/volumes.jpg": {
+      "hash": "96474962627f55189d45ede617cc841e8f4d295d281b8a3f2881f37b38ba93fa",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1200,
+        "height": 1687,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/volumes-400.avif",
+            "config/studio-likwiid/derived/structures/volumes-800.avif",
+            "config/studio-likwiid/derived/structures/volumes-1200.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/volumes-400.webp",
+            "config/studio-likwiid/derived/structures/volumes-800.webp",
+            "config/studio-likwiid/derived/structures/volumes-1200.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/volumes-400.jpg",
+            "config/studio-likwiid/derived/structures/volumes-800.jpg",
+            "config/studio-likwiid/derived/structures/volumes-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAXABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAb/xAAfEAACAgIBBQAAAAAAAAAAAAABAgARAzEEEiFBUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANW3IQNQtq2RGXKjaYX6PaUkQqDZsmK7BWrYiCDNfi5Dmz9OQWK+whFP/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/volumes-1200.jpg"
+      ]
+    },
+    "structures/blocks.jpg": {
+      "hash": "408385999a7de10896e205dc4a020eceaf5c4688fc299017536cf0a0153bb31d",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/blocks-400.avif",
+            "config/studio-likwiid/derived/structures/blocks-800.avif",
+            "config/studio-likwiid/derived/structures/blocks-1200.avif",
+            "config/studio-likwiid/derived/structures/blocks-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/blocks-400.webp",
+            "config/studio-likwiid/derived/structures/blocks-800.webp",
+            "config/studio-likwiid/derived/structures/blocks-1200.webp",
+            "config/studio-likwiid/derived/structures/blocks-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/blocks-400.jpg",
+            "config/studio-likwiid/derived/structures/blocks-800.jpg",
+            "config/studio-likwiid/derived/structures/blocks-1200.jpg",
+            "config/studio-likwiid/derived/structures/blocks-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgP/xAAiEAABAwMDBQAAAAAAAAAAAAABAhEhAAQxAxNRIkFhofD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIBJQJBA8w3zimk9x6pXwFuW0gEwo4fBihcdFpuiVvkzzzRH/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/blocks-1600.jpg"
+      ]
+    },
+    "structures/spikes.jpg": {
+      "hash": "49eb44f6b46883c21da406699d4b3e1e248b3cd8128a3e434d2507ed2c72a045",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 990,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/spikes-400.avif",
+            "config/studio-likwiid/derived/structures/spikes-800.avif",
+            "config/studio-likwiid/derived/structures/spikes-1200.avif",
+            "config/studio-likwiid/derived/structures/spikes-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/spikes-400.webp",
+            "config/studio-likwiid/derived/structures/spikes-800.webp",
+            "config/studio-likwiid/derived/structures/spikes-1200.webp",
+            "config/studio-likwiid/derived/structures/spikes-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/spikes-400.jpg",
+            "config/studio-likwiid/derived/structures/spikes-800.jpg",
+            "config/studio-likwiid/derived/structures/spikes-1200.jpg",
+            "config/studio-likwiid/derived/structures/spikes-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIRAAMFBBIiMSFhMkFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKqZMm6qFVlvio7iPv8AKXa1LNca1wLrG7b0vr2azOJJbJEsZPI+adhCTq70kmQDSH//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/spikes-1600.jpg"
+      ]
+    },
+    "structures/cornice.jpg": {
+      "hash": "a36e9e88b48028e1f1c8fc7f530b806c736e25a0404f9c25f2b7380e46fda2a4",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/structures/cornice-400.avif",
+            "config/studio-likwiid/derived/structures/cornice-800.avif",
+            "config/studio-likwiid/derived/structures/cornice-1200.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/structures/cornice-400.webp",
+            "config/studio-likwiid/derived/structures/cornice-800.webp",
+            "config/studio-likwiid/derived/structures/cornice-1200.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/structures/cornice-400.jpg",
+            "config/studio-likwiid/derived/structures/cornice-800.jpg",
+            "config/studio-likwiid/derived/structures/cornice-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAAAAEDBAUG/8QAHRABAAIDAAMBAAAAAAAAAAAAAQADAgQRBSEiQf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ANbyEWQLvL6lNrXZYCfsQb2NtdhAzMcREJXbOro2/VlTgvrp07CEua8Tr//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/structures/cornice-1200.jpg"
+      ]
+    },
+    "still/tulip.jpg": {
+      "hash": "e942198e9f525f21391743b08b02fe996c833304c34dde1c64c7e2de3ea289e0",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/tulip-400.avif",
+            "config/studio-likwiid/derived/still/tulip-800.avif",
+            "config/studio-likwiid/derived/still/tulip-1200.avif",
+            "config/studio-likwiid/derived/still/tulip-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/tulip-400.webp",
+            "config/studio-likwiid/derived/still/tulip-800.webp",
+            "config/studio-likwiid/derived/still/tulip-1200.webp",
+            "config/studio-likwiid/derived/still/tulip-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/tulip-400.jpg",
+            "config/studio-likwiid/derived/still/tulip-800.jpg",
+            "config/studio-likwiid/derived/still/tulip-1200.jpg",
+            "config/studio-likwiid/derived/still/tulip-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIG/8QAGxABAQACAwEAAAAAAAAAAAAAAQIAEQMhMVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Azsg0FOhe35jyEzdEKyPSmsk9xVVX1wL/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/tulip-1600.jpg"
+      ]
+    },
+    "still/vase.jpg": {
+      "hash": "8285653bbc5d4530b3be528f87b2be2dc88b99ed2174fb26b37e845e9f855066",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 800,
+        "height": 1341,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/vase-400.avif",
+            "config/studio-likwiid/derived/still/vase-800.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/vase-400.webp",
+            "config/studio-likwiid/derived/still/vase-800.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/vase-400.jpg",
+            "config/studio-likwiid/derived/still/vase-800.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAbABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAIBAAAQQBBAMAAAAAAAAAAAAAAQACAxESBSExQRNRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCo4TXCTwEkA2B8W2KIcdpdOgkEsr5jbczgOgEDsqNj63c1OwgYtVloo7KqHpB//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/vase-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/vase-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/vase-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/vase-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/vase-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/vase-800.jpg"
+      ]
+    },
+    "still/yellow-tulip.jpg": {
+      "hash": "a3787e984ceb06c68b216f4ce5595b6d32075d0eca2d14566d5217f7a853c2a0",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/yellow-tulip-400.avif",
+            "config/studio-likwiid/derived/still/yellow-tulip-800.avif",
+            "config/studio-likwiid/derived/still/yellow-tulip-1200.avif",
+            "config/studio-likwiid/derived/still/yellow-tulip-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/yellow-tulip-400.webp",
+            "config/studio-likwiid/derived/still/yellow-tulip-800.webp",
+            "config/studio-likwiid/derived/still/yellow-tulip-1200.webp",
+            "config/studio-likwiid/derived/still/yellow-tulip-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/yellow-tulip-400.jpg",
+            "config/studio-likwiid/derived/still/yellow-tulip-800.jpg",
+            "config/studio-likwiid/derived/still/yellow-tulip-1200.jpg",
+            "config/studio-likwiid/derived/still/yellow-tulip-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABBEFEiETIkFx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAETH/2gAMAwEAAhEDEQA/AJujafZzWrPcoOsoyO8Hg5wSv3ioEm3e2wELnjJ5xSW08sDMYnKllIPqhqURU0q+5qIc3//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/yellow-tulip-1600.jpg"
+      ]
+    },
+    "still/lily.jpg": {
+      "hash": "c33f113fd41d29d87cd19657bf645d94adde449e97bfc19bd36416af889133fd",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/lily-400.avif",
+            "config/studio-likwiid/derived/still/lily-800.avif",
+            "config/studio-likwiid/derived/still/lily-1200.avif",
+            "config/studio-likwiid/derived/still/lily-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/lily-400.webp",
+            "config/studio-likwiid/derived/still/lily-800.webp",
+            "config/studio-likwiid/derived/still/lily-1200.webp",
+            "config/studio-likwiid/derived/still/lily-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/lily-400.jpg",
+            "config/studio-likwiid/derived/still/lily-800.jpg",
+            "config/studio-likwiid/derived/still/lily-1200.jpg",
+            "config/studio-likwiid/derived/still/lily-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBv/EAB4QAAICAgIDAAAAAAAAAAAAAAECAwQAIRExIzKB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQADAAAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/AM5RprYlgbbIW4kXrY3x9wv0RXeRgwVC3jQ+xGT1JHSdQrEA94rc0k07NK5YjW8HS4j/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/lily-1600.jpg"
+      ]
+    },
+    "still/mamiya.jpg": {
+      "hash": "6cfeaec995fb66b4e9d07fb86a1b9de89c63f1cc4357a8fa3f5f48a6e2757300",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/mamiya-400.avif",
+            "config/studio-likwiid/derived/still/mamiya-800.avif",
+            "config/studio-likwiid/derived/still/mamiya-1200.avif",
+            "config/studio-likwiid/derived/still/mamiya-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/mamiya-400.webp",
+            "config/studio-likwiid/derived/still/mamiya-800.webp",
+            "config/studio-likwiid/derived/still/mamiya-1200.webp",
+            "config/studio-likwiid/derived/still/mamiya-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/mamiya-400.jpg",
+            "config/studio-likwiid/derived/still/mamiya-800.jpg",
+            "config/studio-likwiid/derived/still/mamiya-1200.jpg",
+            "config/studio-likwiid/derived/still/mamiya-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBBExAAUSBhNBUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2vUXZinVMEbsliZT4kDQGzwnSv3HtR+zYk8y6jCneT8/fG3a1ILKRGaMMVcYOiOQ6zqqVadpYYFV8byTj94H/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/mamiya-1600.jpg"
+      ]
+    },
+    "still/turntable.jpg": {
+      "hash": "481e8e46e676d1e4411a884f691a7797eee83686190102f48a0bdcc27bef9a06",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1068,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/turntable-400.avif",
+            "config/studio-likwiid/derived/still/turntable-800.avif",
+            "config/studio-likwiid/derived/still/turntable-1200.avif",
+            "config/studio-likwiid/derived/still/turntable-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/turntable-400.webp",
+            "config/studio-likwiid/derived/still/turntable-800.webp",
+            "config/studio-likwiid/derived/still/turntable-1200.webp",
+            "config/studio-likwiid/derived/still/turntable-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/turntable-400.jpg",
+            "config/studio-likwiid/derived/still/turntable-800.jpg",
+            "config/studio-likwiid/derived/still/turntable-1200.jpg",
+            "config/studio-likwiid/derived/still/turntable-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIhAAAgEEAAcBAAAAAAAAAAAAAQMCAAQFERIxMkFhcpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwCGIyU7RJTF0QRLoK97873Wrc51dvbibNbPaJ5n5RvCPYLpS+IGEpAGMgCP2mbUqCyAuGvUUhX/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/turntable-1600.jpg"
+      ]
+    },
+    "still/coffee.jpg": {
+      "hash": "6a867f40d2c76bf85cb4e0cf690dbe94a5fe0358eb78d3740ead4dfb93df1f19",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1080,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/coffee-400.avif",
+            "config/studio-likwiid/derived/still/coffee-800.avif",
+            "config/studio-likwiid/derived/still/coffee-1200.avif",
+            "config/studio-likwiid/derived/still/coffee-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/coffee-400.webp",
+            "config/studio-likwiid/derived/still/coffee-800.webp",
+            "config/studio-likwiid/derived/still/coffee-1200.webp",
+            "config/studio-likwiid/derived/still/coffee-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/coffee-400.jpg",
+            "config/studio-likwiid/derived/still/coffee-800.jpg",
+            "config/studio-likwiid/derived/still/coffee-1200.jpg",
+            "config/studio-likwiid/derived/still/coffee-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EAB0QAAICAgMBAAAAAAAAAAAAAAECESEAUQMSQRP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AzvCEVCzRAsk+Y3kVfmGAphIO8jRj2C+GiNjDdmjrNCgNYH//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/coffee-1600.jpg"
+      ]
+    },
+    "still/bulb.jpg": {
+      "hash": "01a453dfe0261bfe2abadbd4b62e4f51b58a51f1b1937c043f1c5ba85a311240",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 1600,
+        "height": 1200,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/bulb-400.avif",
+            "config/studio-likwiid/derived/still/bulb-800.avif",
+            "config/studio-likwiid/derived/still/bulb-1200.avif",
+            "config/studio-likwiid/derived/still/bulb-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/bulb-400.webp",
+            "config/studio-likwiid/derived/still/bulb-800.webp",
+            "config/studio-likwiid/derived/still/bulb-1200.webp",
+            "config/studio-likwiid/derived/still/bulb-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/bulb-400.jpg",
+            "config/studio-likwiid/derived/still/bulb-800.jpg",
+            "config/studio-likwiid/derived/still/bulb-1200.jpg",
+            "config/studio-likwiid/derived/still/bulb-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDEQAEBRMhFDFBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDK2fal3LmLylBGB0osm8Pr9D4UpTnilo1SN2P0fMOkjxm0dlPq1NZOB//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/bulb-1600.jpg"
+      ]
+    },
+    "still/wall-lamp.jpg": {
+      "hash": "37d98e79a490feb61ebb6678499feabe218b52242395506a6626995b3c8789a2",
+      "params": "e4b3483cd9afb9c4da3c80b070a15a8ffc703a663ecbfbd7e20bb95aa6cddbbe",
+      "rendition": {
+        "width": 800,
+        "height": 1202,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/still/wall-lamp-400.avif",
+            "config/studio-likwiid/derived/still/wall-lamp-800.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/still/wall-lamp-400.webp",
+            "config/studio-likwiid/derived/still/wall-lamp-800.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/still/wall-lamp-400.jpg",
+            "config/studio-likwiid/derived/still/wall-lamp-800.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAIhAAAgICAQMFAAAAAAAAAAAAAgMBEQAhYTFBUQQSIkPh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AFkAyHskYmJ7YIVl6d0Ii2JLY+Q/MU50DQhRsLcX0jmeMyW5aHitlybPsmqKfHGBioYlhlNlub33xokiBr410m8ssx1Kqf/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/wall-lamp-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/wall-lamp-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/wall-lamp-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/wall-lamp-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/wall-lamp-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/still/wall-lamp-800.jpg"
+      ]
+    },
+    "terrain/white-sands.jpg": {
+      "hash": "0a4e0949c1762d2495b909e8b5e92b5659a7eda8f4120d9e40b7d1fff3693f72",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1333,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/white-sands-400.avif",
+            "config/studio-likwiid/derived/terrain/white-sands-800.avif",
+            "config/studio-likwiid/derived/terrain/white-sands-1200.avif",
+            "config/studio-likwiid/derived/terrain/white-sands-1600.avif",
+            "config/studio-likwiid/derived/terrain/white-sands-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/white-sands-400.webp",
+            "config/studio-likwiid/derived/terrain/white-sands-800.webp",
+            "config/studio-likwiid/derived/terrain/white-sands-1200.webp",
+            "config/studio-likwiid/derived/terrain/white-sands-1600.webp",
+            "config/studio-likwiid/derived/terrain/white-sands-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/white-sands-400.jpg",
+            "config/studio-likwiid/derived/terrain/white-sands-800.jpg",
+            "config/studio-likwiid/derived/terrain/white-sands-1200.jpg",
+            "config/studio-likwiid/derived/terrain/white-sands-1600.jpg",
+            "config/studio-likwiid/derived/terrain/white-sands-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQQG/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAAxExoSL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESYf/aAAwDAQACEQMRAD8A0S2qBsQa5cbElSmsqCV7C2pAh89jlBvD/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-sands-2000.jpg"
+      ]
+    },
+    "terrain/mirror-lake.jpg": {
+      "hash": "eb3dc29a706f9c94820df5ba0dd0de1f39425a18d8444f87b8cf3f251d586ec3",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/mirror-lake-400.avif",
+            "config/studio-likwiid/derived/terrain/mirror-lake-800.avif",
+            "config/studio-likwiid/derived/terrain/mirror-lake-1200.avif",
+            "config/studio-likwiid/derived/terrain/mirror-lake-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/mirror-lake-400.webp",
+            "config/studio-likwiid/derived/terrain/mirror-lake-800.webp",
+            "config/studio-likwiid/derived/terrain/mirror-lake-1200.webp",
+            "config/studio-likwiid/derived/terrain/mirror-lake-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/mirror-lake-400.jpg",
+            "config/studio-likwiid/derived/terrain/mirror-lake-800.jpg",
+            "config/studio-likwiid/derived/terrain/mirror-lake-1200.jpg",
+            "config/studio-likwiid/derived/terrain/mirror-lake-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAG/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDABESIWGhBAUGE0FR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBei8hlIBkCE/hFhxSz9+kHsYMgwXRFH3e9jxWZileM5I2J2qnleWzSNkRpeqD/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/mirror-lake-1600.jpg"
+      ]
+    },
+    "terrain/white-peak.jpg": {
+      "hash": "c0cbc9c9aed249105822735bfae7d0917394065821c9f2c2884ae542bd7628e0",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/white-peak-400.avif",
+            "config/studio-likwiid/derived/terrain/white-peak-800.avif",
+            "config/studio-likwiid/derived/terrain/white-peak-1200.avif",
+            "config/studio-likwiid/derived/terrain/white-peak-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/white-peak-400.webp",
+            "config/studio-likwiid/derived/terrain/white-peak-800.webp",
+            "config/studio-likwiid/derived/terrain/white-peak-1200.webp",
+            "config/studio-likwiid/derived/terrain/white-peak-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/white-peak-400.jpg",
+            "config/studio-likwiid/derived/terrain/white-peak-800.jpg",
+            "config/studio-likwiid/derived/terrain/white-peak-1200.jpg",
+            "config/studio-likwiid/derived/terrain/white-peak-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIRAAAQMEAQUAAAAAAAAAAAAAAQIDIQAEETESFCIyUYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AvZT0TAQRy9BM/KRW33AHCxKkA5IpXqyG3Z8dRqsO4vHw4shwg6yINB//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/white-peak-1600.jpg"
+      ]
+    },
+    "terrain/huangshan.jpg": {
+      "hash": "0409b9b35cd68469b238aab8901972b401096dae7c6e725d4ca90b385f37e4a0",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1324,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/huangshan-400.avif",
+            "config/studio-likwiid/derived/terrain/huangshan-800.avif",
+            "config/studio-likwiid/derived/terrain/huangshan-1200.avif",
+            "config/studio-likwiid/derived/terrain/huangshan-1600.avif",
+            "config/studio-likwiid/derived/terrain/huangshan-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/huangshan-400.webp",
+            "config/studio-likwiid/derived/terrain/huangshan-800.webp",
+            "config/studio-likwiid/derived/terrain/huangshan-1200.webp",
+            "config/studio-likwiid/derived/terrain/huangshan-1600.webp",
+            "config/studio-likwiid/derived/terrain/huangshan-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/huangshan-400.jpg",
+            "config/studio-likwiid/derived/terrain/huangshan-800.jpg",
+            "config/studio-likwiid/derived/terrain/huangshan-1200.jpg",
+            "config/studio-likwiid/derived/terrain/huangshan-1600.jpg",
+            "config/studio-likwiid/derived/terrain/huangshan-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEEgURIjEhQXFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwCtFrcTW6yZgk7ggftATX4rlCwAVB2Seqz1zDHGsWC47v52+UpfEpGuPHn6+Uo//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/huangshan-2000.jpg"
+      ]
+    },
+    "terrain/dune-aerial.jpg": {
+      "hash": "f3e1ba9e2fe018c9a0aaa0b7d911bc7c2693b8f0f2acd4a4f9875e5aa1066a2f",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/dune-aerial-400.avif",
+            "config/studio-likwiid/derived/terrain/dune-aerial-800.avif",
+            "config/studio-likwiid/derived/terrain/dune-aerial-1200.avif",
+            "config/studio-likwiid/derived/terrain/dune-aerial-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/dune-aerial-400.webp",
+            "config/studio-likwiid/derived/terrain/dune-aerial-800.webp",
+            "config/studio-likwiid/derived/terrain/dune-aerial-1200.webp",
+            "config/studio-likwiid/derived/terrain/dune-aerial-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/dune-aerial-400.jpg",
+            "config/studio-likwiid/derived/terrain/dune-aerial-800.jpg",
+            "config/studio-likwiid/derived/terrain/dune-aerial-1200.jpg",
+            "config/studio-likwiid/derived/terrain/dune-aerial-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgT/xAAbEAEBAAMAAwAAAAAAAAAAAAABAgADIRESgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AJ4Z2SHtg26pk5QfcgnZZB4p7jqkhR7gtpz/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/dune-aerial-1600.jpg"
+      ]
+    },
+    "terrain/sossusvlei.jpg": {
+      "hash": "88708e2e793038f92094d63a628b346d4b4c386736ff1c4c05ab461ff44637a1",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1500,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/sossusvlei-400.avif",
+            "config/studio-likwiid/derived/terrain/sossusvlei-800.avif",
+            "config/studio-likwiid/derived/terrain/sossusvlei-1200.avif",
+            "config/studio-likwiid/derived/terrain/sossusvlei-1600.avif",
+            "config/studio-likwiid/derived/terrain/sossusvlei-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/sossusvlei-400.webp",
+            "config/studio-likwiid/derived/terrain/sossusvlei-800.webp",
+            "config/studio-likwiid/derived/terrain/sossusvlei-1200.webp",
+            "config/studio-likwiid/derived/terrain/sossusvlei-1600.webp",
+            "config/studio-likwiid/derived/terrain/sossusvlei-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/sossusvlei-400.jpg",
+            "config/studio-likwiid/derived/terrain/sossusvlei-800.jpg",
+            "config/studio-likwiid/derived/terrain/sossusvlei-1200.jpg",
+            "config/studio-likwiid/derived/terrain/sossusvlei-1600.jpg",
+            "config/studio-likwiid/derived/terrain/sossusvlei-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgME/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAwQRIVEx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQADAAAAAAAAAAAAAAAAAAEAAgT/2gAMAwEAAhEDEQA/ABfm45TYx7SfF0ZAPQ/WrsQ+EbmtaUrTSjggbnyF0XIjPVn/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/sossusvlei-2000.jpg"
+      ]
+    },
+    "terrain/fog-valley.jpg": {
+      "hash": "59612805003db22de08cf09d2dd6368ca1827131d1d2eb34c46d43ba9608cb41",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1225,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/fog-valley-400.avif",
+            "config/studio-likwiid/derived/terrain/fog-valley-800.avif",
+            "config/studio-likwiid/derived/terrain/fog-valley-1200.avif",
+            "config/studio-likwiid/derived/terrain/fog-valley-1600.avif",
+            "config/studio-likwiid/derived/terrain/fog-valley-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/fog-valley-400.webp",
+            "config/studio-likwiid/derived/terrain/fog-valley-800.webp",
+            "config/studio-likwiid/derived/terrain/fog-valley-1200.webp",
+            "config/studio-likwiid/derived/terrain/fog-valley-1600.webp",
+            "config/studio-likwiid/derived/terrain/fog-valley-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/fog-valley-400.jpg",
+            "config/studio-likwiid/derived/terrain/fog-valley-800.jpg",
+            "config/studio-likwiid/derived/terrain/fog-valley-1200.jpg",
+            "config/studio-likwiid/derived/terrain/fog-valley-1600.jpg",
+            "config/studio-likwiid/derived/terrain/fog-valley-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEF/8QAHxAAAgEDBQEAAAAAAAAAAAAAAQIRAAMxBAUSIVHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwBWdydhDowA9WftW7qeSmFRzGASKzFY8cnPtEdPdjrGKrKQU//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-valley-2000.jpg"
+      ]
+    },
+    "terrain/fog-forest.jpg": {
+      "hash": "0a234d23b4eea8de931f08a4b1fd661f65d61889a53609a093d71199ff441e5b",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1125,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/fog-forest-400.avif",
+            "config/studio-likwiid/derived/terrain/fog-forest-800.avif",
+            "config/studio-likwiid/derived/terrain/fog-forest-1200.avif",
+            "config/studio-likwiid/derived/terrain/fog-forest-1600.avif",
+            "config/studio-likwiid/derived/terrain/fog-forest-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/fog-forest-400.webp",
+            "config/studio-likwiid/derived/terrain/fog-forest-800.webp",
+            "config/studio-likwiid/derived/terrain/fog-forest-1200.webp",
+            "config/studio-likwiid/derived/terrain/fog-forest-1600.webp",
+            "config/studio-likwiid/derived/terrain/fog-forest-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/fog-forest-400.jpg",
+            "config/studio-likwiid/derived/terrain/fog-forest-800.jpg",
+            "config/studio-likwiid/derived/terrain/fog-forest-1200.jpg",
+            "config/studio-likwiid/derived/terrain/fog-forest-1600.jpg",
+            "config/studio-likwiid/derived/terrain/fog-forest-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EAB4QAAIBBAMBAAAAAAAAAAAAAAECAAQGERMDISJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AqrcFGBnYo+AExFTc3CFOpixx15mREERK/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/fog-forest-2000.jpg"
+      ]
+    },
+    "terrain/ridge.jpg": {
+      "hash": "6474987b0a7f5d86efeff83936f4ef4934049b2ffb4417178be3e4f1139f6a05",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1330,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/terrain/ridge-400.avif",
+            "config/studio-likwiid/derived/terrain/ridge-800.avif",
+            "config/studio-likwiid/derived/terrain/ridge-1200.avif",
+            "config/studio-likwiid/derived/terrain/ridge-1600.avif",
+            "config/studio-likwiid/derived/terrain/ridge-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/terrain/ridge-400.webp",
+            "config/studio-likwiid/derived/terrain/ridge-800.webp",
+            "config/studio-likwiid/derived/terrain/ridge-1200.webp",
+            "config/studio-likwiid/derived/terrain/ridge-1600.webp",
+            "config/studio-likwiid/derived/terrain/ridge-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/terrain/ridge-400.jpg",
+            "config/studio-likwiid/derived/terrain/ridge-800.jpg",
+            "config/studio-likwiid/derived/terrain/ridge-1200.jpg",
+            "config/studio-likwiid/derived/terrain/ridge-1600.jpg",
+            "config/studio-likwiid/derived/terrain/ridge-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACAQAAICAgAHAAAAAAAAAAAAAAECAAMFEQQSISIxQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AKL5fh0KsLQd9O0bhqcpXYQqXKD8J1MOHYOCDqM8x8+4qFf/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/terrain/ridge-2000.jpg"
+      ]
+    },
+    "stories/white-light/louvers.jpg": {
+      "hash": "f30db873f44263fcee3ffacf23c3f1b9ae317ee148853e2a286cb0eac799d2bc",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1258,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/stories/white-light/louvers-400.avif",
+            "config/studio-likwiid/derived/stories/white-light/louvers-800.avif",
+            "config/studio-likwiid/derived/stories/white-light/louvers-1200.avif",
+            "config/studio-likwiid/derived/stories/white-light/louvers-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/stories/white-light/louvers-400.webp",
+            "config/studio-likwiid/derived/stories/white-light/louvers-800.webp",
+            "config/studio-likwiid/derived/stories/white-light/louvers-1200.webp",
+            "config/studio-likwiid/derived/stories/white-light/louvers-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/stories/white-light/louvers-400.jpg",
+            "config/studio-likwiid/derived/stories/white-light/louvers-800.jpg",
+            "config/studio-likwiid/derived/stories/white-light/louvers-1200.jpg",
+            "config/studio-likwiid/derived/stories/white-light/louvers-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQQG/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIAEQMEEiFBMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8A1jOqGiRfqS6jJkZtoHH2BNOD2IvTknx1FNf/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/louvers-1600.jpg"
+      ]
+    },
+    "stories/white-light/glass.jpg": {
+      "hash": "0409839482cdecdba68ded1e6d890e7210ae774977664581105f25cedba352e8",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1961,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/stories/white-light/glass-400.avif",
+            "config/studio-likwiid/derived/stories/white-light/glass-800.avif",
+            "config/studio-likwiid/derived/stories/white-light/glass-1200.avif",
+            "config/studio-likwiid/derived/stories/white-light/glass-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/stories/white-light/glass-400.webp",
+            "config/studio-likwiid/derived/stories/white-light/glass-800.webp",
+            "config/studio-likwiid/derived/stories/white-light/glass-1200.webp",
+            "config/studio-likwiid/derived/stories/white-light/glass-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/stories/white-light/glass-400.jpg",
+            "config/studio-likwiid/derived/stories/white-light/glass-800.jpg",
+            "config/studio-likwiid/derived/stories/white-light/glass-1200.jpg",
+            "config/studio-likwiid/derived/stories/white-light/glass-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAUABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAHRAAAQMFAQAAAAAAAAAAAAAAAAECEQMEMXHwIf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AELR6siMd0itNUe2UCqSCVknrtFE4wUUEbPLtEQpH//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/glass-1600.jpg"
+      ]
+    },
+    "stories/white-light/arcs.jpg": {
+      "hash": "edd06e732a59e88b77b062bbf9be2c16c463979c36f91d3d416c24aaff99e60f",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1200,
+        "height": 1800,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/stories/white-light/arcs-400.avif",
+            "config/studio-likwiid/derived/stories/white-light/arcs-800.avif",
+            "config/studio-likwiid/derived/stories/white-light/arcs-1200.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/stories/white-light/arcs-400.webp",
+            "config/studio-likwiid/derived/stories/white-light/arcs-800.webp",
+            "config/studio-likwiid/derived/stories/white-light/arcs-1200.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/stories/white-light/arcs-400.jpg",
+            "config/studio-likwiid/derived/stories/white-light/arcs-800.jpg",
+            "config/studio-likwiid/derived/stories/white-light/arcs-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAJBAAAQQABQQDAAAAAAAAAAAAAQACAxESFSExQQUTIkJDUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAMAwEAAhEDEQA/ANBj8y3C4u+kwA2qGvK6D42jrrJMLrMR14CfYjzgk2WuivCdgb3S2KF8gOZRa+hUyDmDRfxnj9QhEV//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/arcs-1200.jpg"
+      ]
+    },
+    "stories/white-light/facade-weave.jpg": {
+      "hash": "ff2bc002e88af25726ee6a9821ee468df7e590ccc5f96f9eeb4310beaf579616",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-400.avif",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-800.avif",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-1200.avif",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-400.webp",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-800.webp",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-1200.webp",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-400.jpg",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-800.jpg",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-1200.jpg",
+            "config/studio-likwiid/derived/stories/white-light/facade-weave-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACAQAQABAwQDAQAAAAAAAAAAAAECAAQRAyExQQUSI0L/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFREBAQAAAAAAAAAAAAAAAAAAAEH/2gAMAwEAAhEDEQA/AGL1YaW3K4oe9j8IcMsv69eqa8ltoidUBcgjFBIywCZxtSkf/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/facade-weave-1600.jpg"
+      ]
+    },
+    "stories/white-light/lines.jpg": {
+      "hash": "47953eb3e59462977ecee8bb810325929b965b3e53799438a8aed44bb108b49e",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1600,
+        "height": 1066,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/stories/white-light/lines-400.avif",
+            "config/studio-likwiid/derived/stories/white-light/lines-800.avif",
+            "config/studio-likwiid/derived/stories/white-light/lines-1200.avif",
+            "config/studio-likwiid/derived/stories/white-light/lines-1600.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/stories/white-light/lines-400.webp",
+            "config/studio-likwiid/derived/stories/white-light/lines-800.webp",
+            "config/studio-likwiid/derived/stories/white-light/lines-1200.webp",
+            "config/studio-likwiid/derived/stories/white-light/lines-1600.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/stories/white-light/lines-400.jpg",
+            "config/studio-likwiid/derived/stories/white-light/lines-800.jpg",
+            "config/studio-likwiid/derived/stories/white-light/lines-1200.jpg",
+            "config/studio-likwiid/derived/stories/white-light/lines-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEhMQIRQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2Lom3qHDfR5UH0D/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/stories/white-light/lines-1600.jpg"
+      ]
+    },
+    "site/hero.jpg": {
+      "hash": "a8b49151767c67081b134958ef682073fac4d1c6a61b7508cc926ee9d68b78ed",
+      "params": "e097d5c5dcd4d2109cf2a1c74ee2f3eff9ad1312059b77fdf2d287b86b7e34d5",
+      "rendition": {
+        "width": 2000,
+        "height": 1333,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/site/hero-400.avif",
+            "config/studio-likwiid/derived/site/hero-800.avif",
+            "config/studio-likwiid/derived/site/hero-1200.avif",
+            "config/studio-likwiid/derived/site/hero-1600.avif",
+            "config/studio-likwiid/derived/site/hero-2000.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/site/hero-400.webp",
+            "config/studio-likwiid/derived/site/hero-800.webp",
+            "config/studio-likwiid/derived/site/hero-1200.webp",
+            "config/studio-likwiid/derived/site/hero-1600.webp",
+            "config/studio-likwiid/derived/site/hero-2000.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/site/hero-400.jpg",
+            "config/studio-likwiid/derived/site/hero-800.jpg",
+            "config/studio-likwiid/derived/site/hero-1200.jpg",
+            "config/studio-likwiid/derived/site/hero-1600.jpg",
+            "config/studio-likwiid/derived/site/hero-2000.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600,
+          2000
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAHhAAAgEDBQAAAAAAAAAAAAAAAQIAAxExBCJDUZL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AyraVV5D5haglttZSeiCI3JtmTHMD/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-1600.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-2000.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-2000.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/hero-2000.jpg"
+      ]
+    },
+    "site/atelier.jpg": {
+      "hash": "c480f66489b816705ddffc3c993e7ceb8320c843689302976d8e52aafcfec367",
+      "params": "71ef816e124aa159ec230607f89c7c1eaea77ea784f336db08f08f8d4a0ba674",
+      "rendition": {
+        "width": 1200,
+        "height": 1799,
+        "sources": {
+          "avif": [
+            "config/studio-likwiid/derived/site/atelier-400.avif",
+            "config/studio-likwiid/derived/site/atelier-800.avif",
+            "config/studio-likwiid/derived/site/atelier-1200.avif"
+          ],
+          "webp": [
+            "config/studio-likwiid/derived/site/atelier-400.webp",
+            "config/studio-likwiid/derived/site/atelier-800.webp",
+            "config/studio-likwiid/derived/site/atelier-1200.webp"
+          ],
+          "jpeg": [
+            "config/studio-likwiid/derived/site/atelier-400.jpg",
+            "config/studio-likwiid/derived/site/atelier-800.jpg",
+            "config/studio-likwiid/derived/site/atelier-1200.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAYABADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAkEAACAQMDAwUAAAAAAAAAAAABAgMABBESITETcYEVMkFRYv/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AG3gubdMIyqspLS3S5JPn48VPp8l8EaaOKVl3WQ8OP0Bz32pGO7mKYJ1Q6RpUfdWi8u+iWiEiYXgEAmj6XyxRKJLFkMzIUPA4PcUJO9uMJLbzBj7WUr52ooq5Gdr/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/studio-likwiid/derived/site/atelier-1200.jpg"
+      ]
+    }
+  }
+}
